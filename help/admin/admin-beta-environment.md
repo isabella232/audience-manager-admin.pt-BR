@@ -1,10 +1,10 @@
 ---
-description: O ambiente beta é para testar implementações do Audience Manager. As alterações feitas em beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão em menor escala e independente do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
-seo-description: O ambiente beta é para testar implementações do Audience Manager. As alterações feitas em beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão em menor escala e independente do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
+description: O ambiente beta é para testar implementações do Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
+seo-description: O ambiente beta é para testar implementações do Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
 seo-title: Ambiente beta
 solution: Audience Manager
 title: Ambiente beta
-uuid: 6 a 253 f 4 e -96 e 7-4395-a 783-a 8 eb 213 b 7 daf
+uuid: 6a253f4e-96e7-4395-a783-a8eb213b7daf
 translation-type: tm+mt
 source-git-commit: 7765dbf79c2fb6ca8c4b52fe8090c1fd11f9db27
 
@@ -13,46 +13,46 @@ source-git-commit: 7765dbf79c2fb6ca8c4b52fe8090c1fd11f9db27
 
 # Ambiente beta {#beta-environment}
 
-O ambiente beta é para testar implementações do Audience Manager. As alterações feitas em beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão em menor escala e independente do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
+O ambiente beta é para testar implementações do Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
 
 ## Visão geral {#overview}
 
 <!-- beta_environment_admin.xml -->
 
-| Serviço | URL/Nome do host | Etapas para a provisão |
+| Serviço | URL/Nome do host | Etapas para provisionar |
 |--- |--- |--- |
-| S3 |  | Consulte [Provisionamento de buckets do Amazon S 3](admin-beta-environment.md#provision-s3-buckets). |
-| DCS | https &amp; amp; dois pontos; // dcs-beta.demdex.net/.. | Nenhuma etapa extra necessária em nosso lado. Consulte [Acessar o DCS no ambiente beta](admin-beta-environment.md#access-dcs-beta-environment). |
-| Interface do usuário | https &amp; amp; dois pontos; //bank-beta.demdex.com | Os dados são copiados da produção para o ambiente beta mensalmente. As credenciais de produção são válidas para beta. |
-| API | https &amp; amp; dois pontos; // api-beta.demdex.com/.. | Os dados são copiados da produção para o ambiente beta mensalmente. As credenciais de produção são válidas para beta. |
+| S3 |  | Consulte [Provisionamento de buckets](admin-beta-environment.md#provision-s3-buckets)Amazon S3. |
+| DCS | https&amp;dois pontos;//dcs-beta.demdex.net/... | Não são necessários passos adicionais do nosso lado. Consulte [Acessar o DCS no Ambiente](admin-beta-environment.md#access-dcs-beta-environment)Beta. |
+| Interface do usuário | https&amp;dois pontos;//bank-beta.demdex.com | Os dados são copiados da produção para o ambiente beta mensalmente. As credenciais de produção são válidas para beta. |
+| API | https&amp;dois pontos;//api-beta.demdex.com/... | Os dados são copiados da produção para o ambiente beta mensalmente. As credenciais de produção são válidas para beta. |
 
-## Provisão de buckets da Amazon S 3 {#provision-s3-buckets}
+## Provisionamento de buckets Amazon S3 {#provision-s3-buckets}
 
 >[!NOTE]
 >
->Estamos afastando de usar [!DNL FTP/SFTP]. Além disso, observe que as transferências de dados de saída não funcionam para o ambiente beta.
+>Estamos nos afastando de usar [!DNL FTP/SFTP]. Além disso, observe que as transferências de dados de saída não funcionam para o ambiente beta.
 
-Para incluir [!DNL S3] grupos de dados de entrada:
+Para provisionar [!DNL S3] compartimentos para dados de entrada:
 
-1. Use o recurso [**de Ajuda**](https://skms.adobe.com/) techops da solicitação de SKMS.
+1. Use o recurso de Ajuda [**de TechOps para solicitação de**](https://skms.adobe.com/) SKMS.
 1. Vá para **[!UICONTROL Request TechOps Help]** o painel de navegação esquerdo.
-1. No **[!UICONTROL Request Search]**, digite no Audience Manager no campo de pesquisa.
-1. Role para baixo nos resultados da pesquisa e clique em no **Audience Manager - Provisionamento de conta de entrada/saída S 3**.
-1. Preencha os campos na janela de provisionamento e especifique **o ambiente Sandbox** no **[!UICONTROL Environment]** campo.
+1. Em **[!UICONTROL Request Search]**, digite Audience Manager no campo de pesquisa.
+1. Role para baixo nos resultados da pesquisa e clique em **Audience Manager - Provisionamento** de conta de entrada/saída S3.
+1. Preencha os campos na janela de provisionamento e especifique o ambiente **** Sandbox no **[!UICONTROL Environment]** campo.
 
 >[!NOTE]
 >
->Desencorajamos o uso [!DNL FTP/SFTP] de e incentive o uso [!UICONTROL Amazon S3]de. Os motivos pelos quais recomendamos o uso [!UICONTROL Amazon S3] de estão listados no [Amazon S 3: Sobre](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/amazon-s3.html).
+>Desencorajamos o uso de [!DNL FTP/SFTP] e incentivamos o uso de [!UICONTROL Amazon S3]. As razões pelas quais incentivamos o uso do [!UICONTROL Amazon S3] são listadas na [Amazon S3:About](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/amazon-s3.html).
 
-## Acesse o DCS no ambiente beta {#access-dcs-beta-environment}
+## Acesse o DCS no ambiente Beta {#access-dcs-beta-environment}
 
-Para acessar o [!UICONTROL DCS] ambiente beta:
+Para acessar o [!UICONTROL DCS] no ambiente beta:
 
-1. [!UICONTROL DCS] Faça uma chamada usando o [!DNL curl][comando](https://curl.haxx.se/docs/manpage.html). [!DNL Curl] é uma ferramenta para transferir dados de ou para um servidor, usando um de muitos protocolos suportados.
+1. Faça uma [!UICONTROL DCS] chamada usando o [!DNL curl][comando](https://curl.haxx.se/docs/manpage.html). [!DNL Curl] é uma ferramenta para transferir dados de ou para um servidor, usando um dos vários protocolos suportados.
 
    Por exemplo: `curl -v https://dcs-beta.demdex.net/event`
 
-1. Verifique se a solicitação foi fornecida pelo beta [!UICONTROL DCS] procurando por "[!DNL sandbox]no cabeçalho [!UICONTROL DCS] de resposta.
+1. Verifique se a solicitação foi atendida pelo beta [!UICONTROL DCS] procurando "[!DNL sandbox]" no cabeçalho de [!UICONTROL DCS] resposta.
 
    Por exemplo:
 
