@@ -1,6 +1,6 @@
 ---
-description: 'Use o logon de auditoria como um primeiro local para depurar problemas do cliente. '
-seo-description: 'Use o logon de auditoria como um primeiro local para depurar problemas do cliente. '
+description: 'Use o Registro de auditoria como o primeiro lugar a ser acessado ao depurar problemas do cliente. '
+seo-description: 'Use o Registro de auditoria como o primeiro lugar a ser acessado ao depurar problemas do cliente. '
 seo-title: Registro de auditoria
 title: Registro de auditoria
 uuid: null
@@ -12,15 +12,15 @@ source-git-commit: 190ba5c1215782e46c8e544c10679d451fbed134
 
 # Registro de auditoria {#audit-logging}
 
-Use [!UICONTROL  Audit Logging] como primeiro lugar ao depurar problemas do cliente.
+Use [!UICONTROL  Audit Logging] como o primeiro local para solucionar problemas do cliente.
 
 > [!NOTE]
 >
->[!UICONTROL Audit Logging] estão em desenvolvimento e estão sujeitos a alterações. Registre quaisquer problemas que você encontrar em [!DNL JIRA] ([!DNL UI] equipe)
+>[!UICONTROL Audit Logging] está atualmente em desenvolvimento e sujeita a alterações. Registre todos os problemas encontrados [!DNL JIRA] ([!DNL UI] equipe)
 
-![Exibição de logon de auditoria](assets/audit-logging-img.png)
+![Exibição de registro de auditoria](assets/audit-logging-img.png)
 
-No **seletor** suspenso Tipo de auditoria, escolha entre:
+No seletor suspenso Tipo **de** auditoria, escolha entre:
 
 * [!UICONTROL Partner]
 * [!UICONTROL User]
@@ -39,7 +39,7 @@ No **seletor** suspenso Tipo de auditoria, escolha entre:
 * [!UICONTROL Model]
 * [!UICONTROL Segment Test Group]
 
-A ID **do objeto** é a ID do item que você está investigando. Consulte a tabela abaixo para a qual a ID corresponde à ID do objeto em cada caso:
+A ID **do** objeto é a ID do item que você está pesquisando. Consulte a tabela abaixo para saber qual ID corresponde à ID do objeto em cada caso:
 
 | Tipo de auditoria | ID do objeto |
 ---------|----------|
@@ -60,4 +60,4 @@ A ID **do objeto** é a ID do item que você está investigando. Consulte a tabe
 | [!UICONTROL Model] | N/A |
 | [!UICONTROL Segment Test Group] | N/A |
 
-Use [!UICONTROL Start Date] ([!DNL UTC]) e [!UICONTROL End Date] ([!DNL UTC]) para restringir o intervalo de tempo dos logs.
+Use [!UICONTROL Start Date] ([!DNL UTC]) e [!UICONTROL End Date] ([!DNL UTC]) para restringir o intervalo de tempo dos registros.
