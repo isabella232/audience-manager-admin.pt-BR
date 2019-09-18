@@ -1,8 +1,8 @@
 ---
 description: Informações que ajudam a configurar destinos no Audience Manager e a evitar problemas comuns.
 seo-description: Informações que ajudam a configurar destinos no Audience Manager e a evitar problemas comuns.
-seo-title: Solução de problemas de configuração de destino
-title: Solução de problemas de configuração de destino
+seo-title: ' Solução de problemas de configuração de destino'
+title: ' Solução de problemas de configuração de destino'
 uuid: 04080fb9-6c7b-4de7-960e-54482be2de83
 translation-type: tm+mt
 source-git-commit: 118e8fa3f35bc77846c6518268448d57d779a2ee
