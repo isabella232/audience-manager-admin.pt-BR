@@ -1,7 +1,7 @@
 ---
 description: Siga estas instruções para gerar um arquivo de sincronização completo que inclua somente usuários ativos recentemente. Talvez você queira filtrar os usuários ativos para enviar dados relevantes para um sistema de direcionamento no site ou para limitar o tamanho dos arquivos enviados para um DSP. Não é possível usar esse filtro com sincronização incremental.
 seo-description: Siga estas instruções para gerar um arquivo de sincronização completo que inclua somente usuários ativos recentemente. Talvez você queira filtrar os usuários ativos para enviar dados relevantes para um sistema de direcionamento no site ou para limitar o tamanho dos arquivos enviados para um DSP. Não é possível usar esse filtro com sincronização incremental.
-seo-title: Filtrar dados de saída somente por usuários ativos
+seo-title: ' Filtrar dados de saída somente por usuários ativos'
 title: Filtrar dados de saída somente por usuários ativos
 uuid: a2b4a385-eee3-458c-b978-09509cacb397
 translation-type: tm+mt
