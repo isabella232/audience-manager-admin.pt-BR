@@ -34,7 +34,7 @@ Exibir ou editar provedores de dados para contêineres.
 
 1. Mova as fontes de dados das listas **[!UICONTROL Available Data Sources]** e **[!UICONTROL Selected Data Sources for This Container]** selecionando as fontes de dados desejadas e, em seguida, clicando nas setas para a direita ou para a esquerda, conforme necessário.
 
-   Também é possível executar essa tarefa a partir do [Terceiros Data](../companies/admin-third-party-providers.md#task_E942DD674D794BA6B8EFD52FD866E689)Provider Spage.
+   Você também pode executar essa tarefa a partir do [Terceiros Data](../companies/admin-third-party-providers.md#task_E942DD674D794BA6B8EFD52FD866E689)Provider Spage.
 
 1. Clique **[!UICONTROL Save]** se tiver feito alterações.
 
