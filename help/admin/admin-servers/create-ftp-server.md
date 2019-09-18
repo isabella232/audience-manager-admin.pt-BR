@@ -1,8 +1,8 @@
 ---
 description: Use a página Servidores na ferramenta Admin do Audience Manager para criar um novo servidor FTP ou editar um servidor existente.
 seo-description: Use a página Servidores na ferramenta Admin do Audience Manager para criar um novo servidor FTP ou editar um servidor existente.
-seo-title: Criar ou editar um servidor FTP
-title: Criar ou editar um servidor FTP
+seo-title: ' Criar ou editar um servidor FTP'
+title: ' Criar ou editar um servidor FTP'
 uuid: 9273abb2-963d-4d83-bf5a-b3817f0b90e6
 translation-type: tm+mt
 source-git-commit: 57d7a92265e565b6c411e4cfa5c579e40eb837b3
