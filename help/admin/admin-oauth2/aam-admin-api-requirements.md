@@ -1,8 +1,8 @@
 ---
 description: As coisas de que você deve incentivar seus clientes a estarem cientes quando estiverem trabalhando com as APIs do Audience Manager.
 seo-description: As coisas de que você deve incentivar seus clientes a estarem cientes quando estiverem trabalhando com as APIs do Audience Manager.
-seo-title: Requisitos e recomendações da API
-title: Requisitos e recomendações da API
+seo-title: ' Requisitos e recomendações da API'
+title: ' Requisitos e recomendações da API'
 uuid: eba9cf92-f0c8-4394-8532-0de9a2e7b103
 translation-type: tm+mt
 source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
