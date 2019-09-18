@@ -1,8 +1,8 @@
 ---
 description: Use a página Formatos na ferramenta de administração do Audience Manager para criar um novo formato ou editar um formato existente.
 seo-description: Use a página Formatos na ferramenta de administração do Audience Manager para criar um novo formato ou editar um formato existente.
-seo-title: Criar ou editar um formato
-title: Criar ou editar um formato
+seo-title: ' Criar ou editar um formato'
+title: ' Criar ou editar um formato'
 uuid: ca1b1feb-bcd3-4a41-b1e8-80565f6c23ae
 translation-type: tm+mt
 source-git-commit: 71bf4cec222428686c1eab0998f66887db06da68
