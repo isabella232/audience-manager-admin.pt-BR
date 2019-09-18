@@ -1,8 +1,8 @@
 ---
 description: Por padrão, todas as empresas sincronizam dados com o Adobe Media Otimizer (AMO). Na interface do usuário administrativa, cada contêiner da empresa tem uma fonte de dados que gerencia esse processo. Essa fonte de dados é o Adobe AMO (ID 411). Clique em uma linha de contêiner (na guia Contêineres) de uma empresa selecionada para desativar essa sincronização padrão ou para adicionar e remover outras fontes de dados ao processo de sincronização AMO.
 seo-description: Por padrão, todas as empresas sincronizam dados com o Adobe Media Otimizer (AMO). Na interface do usuário administrativa, cada contêiner da empresa tem uma fonte de dados que gerencia esse processo. Essa fonte de dados é o Adobe AMO (ID 411). Clique em uma linha de contêiner (na guia Contêineres) de uma empresa selecionada para desativar essa sincronização padrão ou para adicionar e remover outras fontes de dados ao processo de sincronização AMO.
-seo-title: Sincronização de ID com o Media Otimizer
-title: Sincronização de ID com o Media Otimizer
+seo-title: ' Sincronização de ID com o Media Otimizer'
+title: ' Sincronização de ID com o Media Otimizer'
 uuid: b741dfa7-2947-4288-b214-79eccf18d53a
 translation-type: tm+mt
 source-git-commit: 40a6ca5d34ec72d8b88bc18f2e2b5390c2ea6f5e
