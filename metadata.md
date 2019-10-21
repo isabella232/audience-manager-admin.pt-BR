@@ -6,11 +6,11 @@ solution-image: assets/aam-icon-24.png
 getting-started-title: Introdução
 getting-started-url: https://helpx.adobe.com/audience-manager/get-started.html
 tutorials-title: Tutoriais
-tutorials-url: https://helpx.adobe.com/audience-manager/kt/index/aam-videos.html
+tutorials-url: https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-admin.en
 index: false
 translation-type: tm+mt
-source-git-commit: a6af108f2d22ed648e87b09198f34f89ebb5e906
+source-git-commit: b9d0dc2a2daf067435b62e4d2e2bc0784fbe3baf
 
 ---
 
@@ -21,10 +21,10 @@ O arquivo metadata.md inclui metadados de nível de acordo de recompra que passa
 
 | metadados | o que ele faz |
 |--- |--- |
-| solution-title | Used in article header as link |
-| solution-hub-url | Opens helpx hub page |
-| solution-icon | Displays solution icon next to solution title. Not yet implemented |
-| getting-started-url | Link to helpx getting started page |
-| tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
-| mini-toc-levels | Determines the number of heading levels that appear in right rail. o padrão é 2 |
-| git-repo | Specifies the location of the master repo for internal use |
+| título da solução | Usado no cabeçalho do artigo como link |
+| solution-hub-url | Abre a página do hub helpx |
+| ícone da solução | Exibe o ícone da solução ao lado do título da solução. Ainda não implementado |
+| getting-started-url | Link para a página de introdução ao helpx |
+| tutoriais-url | Link para tutoriais em vídeo — tutoriais do helpx ou tutoriais do KT |
+| níveis minitoctoc | Determina o número de níveis de cabeçalho exibidos no painel direito. o padrão é 2 |
+| repo git | Especifica o local do acordo principal para uso interno |
