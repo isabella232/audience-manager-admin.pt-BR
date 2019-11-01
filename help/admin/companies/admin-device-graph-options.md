@@ -1,11 +1,11 @@
 ---
 description: As Opções de gráfico de dispositivos estão disponíveis para empresas que participam do Adobe Experience Cloud Device Co-op. Se um cliente também tiver uma relação contratual com um provedor de gráfico de dispositivo de terceiros integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivo. Essas opções estão localizadas em Empresas > nome da empresa > Perfil > Opções de gráfico de dispositivo.
 seo-description: As Opções de gráfico de dispositivos estão disponíveis para empresas que participam do Adobe Experience Cloud Device Co-op. Se um cliente também tiver uma relação contratual com um provedor de gráfico de dispositivo de terceiros integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivo. Essas opções estão localizadas em Empresas > nome da empresa > Perfil > Opções de gráfico de dispositivo.
-seo-title: ' Opções de gráfico de dispositivo para empresas'
-title: ' Opções de gráfico de dispositivo para empresas'
+seo-title: Opções de gráfico de dispositivo para empresas
+title: Opções de gráfico de dispositivo para empresas
 uuid: a8ced843-710c-4a8f-a0d7-ea89d010a7a5
 translation-type: tm+mt
-source-git-commit: 10adb6b06160f5a5c4068483b407e5798fc10150
+source-git-commit: 2998dc049971b2fac8c45ca6e3118ea607ae3f92
 
 ---
 
@@ -46,7 +46,7 @@ Essas caixas de seleção são ativadas no [!DNL Admin UI] momento em que um par
 
 ![](assets/adminUI2.png)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Definição das opções de regra de mesclagem de perfil](https://marketing.adobe.com/resources/help/en_US/aam/merge-rule-definitions.html)
 >* [Configurações da fonte de dados e opções de menu](https://marketing.adobe.com/resources/help/en_US/aam/datasource-settings-definitions.html)
