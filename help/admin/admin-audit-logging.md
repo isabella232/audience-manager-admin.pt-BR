@@ -5,7 +5,7 @@ seo-title: Registro de auditoria
 title: Registro de auditoria
 uuid: null
 translation-type: tm+mt
-source-git-commit: 6c09d99165c1294999f4a4d7ce763082e6d2cb8f
+source-git-commit: 53bf192d17e107f5f696712e578921abaa52b9ab
 
 ---
 
@@ -14,11 +14,11 @@ source-git-commit: 6c09d99165c1294999f4a4d7ce763082e6d2cb8f
 
 Use [!UICONTROL  Audit Logging] como o primeiro local para solucionar problemas do cliente.
 
-> [!NOTE]
+>[!NOTE]
 >
-> A [!UICONTROL Audit Logging] funcionalidade e a documentação estão atualmente em desenvolvimento e sujeitas a alterações. Registre todos os problemas que encontrar [!DNL JIRA] ([!DNL UI] equipe).
+>A [!UICONTROL Audit Logging] funcionalidade e a documentação estão atualmente em desenvolvimento e sujeitas a alterações. Registre todos os problemas que encontrar [!DNL JIRA] ([!DNL UI] equipe).
 
-![Exibição de registro de auditoria](assets/audit-logging-img.png)
+![visualização de registro de auditoria](assets/audit-logging-img.png)
 
 <!-- 
 
