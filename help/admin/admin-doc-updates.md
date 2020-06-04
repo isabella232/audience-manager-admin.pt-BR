@@ -1,28 +1,31 @@
 ---
-description: Todas as atualizações (adições, exclusões e correções) no Guia do administrador do Audience Manager, por data.
-seo-description: Todas as atualizações (adições, exclusões e correções) no Guia do administrador do Audience Manager, por data.
+description: Todas as atualizações (adições, exclusões e correções) no Guia do Administrador do Audience Manager, por data.
+seo-description: Todas as atualizações (adições, exclusões e correções) no Guia do Administrador do Audience Manager, por data.
 seo-title: Atualizações de documentação
 title: Atualizações de documentação
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e60aa0ac341d74454bfe00a4f56add3a9f9e281b
+workflow-type: ht
+source-wordcount: '629'
+ht-degree: 100%
 
 ---
 
 
 # Atualizações de documentação {#documentation-updates}
 
-Todas as atualizações (adições, exclusões e correções) no Guia do administrador do Audience Manager, por data.
+Todas as atualizações (adições, exclusões e correções) no Guia do Administrador do Audience Manager, por data.
 
-Para obter informações sobre lançamentos de recursos, melhorias e correções de erros, consulte as Notas [de versão da](https://marketing.adobe.com/resources/help/en_US/whatsnew/)Experience Cloud. Consulte as [notas de versão anteriores](https://marketing.adobe.com/resources/help/en_US/whatsnew/c_legacy_releases.html) para ver anúncios anteriores da Experience Cloud. Para Obter Atualizações [!DNL Audience Manager documentation changes, see] Da [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/documentation-updates/docs-2019.html)Documentação.
+Para obter informações sobre lançamentos de recursos, melhorias e correções de erros, consulte as [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/). Consulte as [notas de versão anteriores](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/c_legacy_releases.html) para ver anúncios mais antigos da Experience Cloud. Para [!DNL Audience Manager documentation changes, see] [Atualizações de documentação](https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/documentation-updates/docs-2019.html).
 
 ## Atualizações de documentação do AAM 2019 {#aam-2019-docs-updates}
 
 
 | Tópico | Descrição |
 ---------|----------|
-|  Macros de formato HTTP | Adicionamos uma nova macro, `REGION_ID_LIST`, e três novos campos,`sda`e,`sda`e `sda` à `USER_LIST` macro. |
-|  Macros de formato HTTP | Adicionamos duas novas macros: `ECID` e `MCID`. |
+| Macros de formato HTTP | Adicionamos uma nova macro, `REGION_ID_LIST`, e três novos campos, `sda`, `sda` e `sda` à macro `USER_LIST`. |
+| Macros de formato HTTP | Adicionamos duas novas macros: `ECID` e `MCID`. |
 
 
 ## Atualizações de documentação do AAM 2018 {#aam-2018-docs-updates}
@@ -42,12 +45,12 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
    <td colname="col2"> <p>Adicionamos mais informações sobre autenticação de chave SSH para servidores SFTP (etapa 5). </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><a href="admin-destination-troubleshooting.md#set-up-destinations-export"> Como configurar seus destinos para exportar a Experience Cloud...</a> </p> </td> 
-   <td colname="col2"> <p>Esta página mostra como configurar destinos para exportar dados marcados do tipo de ID que você deseja em Arquivos de Dados de Saída. </p> </td> 
+   <td colname="col1"> <p><a href="admin-destination-troubleshooting.md#set-up-destinations-export"> Como configurar seus destinos para exportar IDs da Experience Cloud...</a> </p> </td> 
+   <td colname="col2"> <p>Esta página mostra como configurar destinos para exportar dados com o tipo de ID que você deseja em Arquivos de dados de saída. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><a href="admin-servers/admin-authorize-s3-cross-bucket.md#task_20B12994C5484A9D8CC40DF6F456CBE7"> Como: Autorizar acesso entre contas do bucket Amazon S3 para destinos de lote</a> </p> </td> 
-   <td colname="col2"> <p>Nossos clientes podem usar permissões de bucket entre contas no Amazon S3 para fornecer arquivos de dados de saída, se preferirem não compartilhar chaves de acesso e chaves secretas do Amazon S3. Este documento mostra como configurar essa alternativa na interface do usuário de administração do Audience Manager. </p> </td> 
+   <td colname="col1"> <p><a href="admin-servers/admin-authorize-s3-cross-bucket.md#task_20B12994C5484A9D8CC40DF6F456CBE7"> Como autorizar acesso ao bucket do Amazon S3 entre contas para destinos em lote</a> </p> </td> 
+   <td colname="col2"> <p>É possível usar permissões de acesso ao bucket do Amazon S3 entre contas para a entrega de arquivos de dados de saída, caso não queira compartilhar chaves de acesso ou secretas do Amazon S3. Este documento mostra como configurar essa alternativa na interface do Administrador do Audience Manager. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,26 +67,26 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
  <tbody> 
   <tr> 
    <td colname="col1"><a href="formats/web-formats.md#reference_C392124A5F3F42E49F8AADDBA601ADFE"> Macros de formato HTTP</a> </td> 
-   <td colname="col2">Substituída a macro <code>segmentId</code> por <code>legacySegmentId</code> e adicionada a macro <code>newSegmentId</code> . </td> 
+   <td colname="col2">Substituição da macro <code>segmentId</code> por <code>legacySegmentId</code> e adição da macro <code>newSegmentId</code>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"><a href="companies/admin-company-limits.md#task_3004C10CB9A9430A8D25E25BB830B5D6"> Gerenciar limites da empresa</a> </td> 
-   <td colname="col2"> Adição do número máximo de pastas de características e profundidade de estruturas de características à documentação de limites. </td> 
+   <td colname="col2"> Adição do número máximo de pastas de características e da profundidade máxima da estrutura de características à documentação sobre limites. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="formats/enable-outbound-seq.md#concept_526744C9433F40BF8269E18245B2F0BD"> Ativar transferências de arquivos de sequência Hadoop para saída</a> </td> 
-   <td colname="col2"> Leia como você pode permitir que os clientes enviem arquivos SEQ de saída para sua própria instância do Hadoop. </td> 
+   <td colname="col1"><a href="formats/enable-outbound-seq.md#concept_526744C9433F40BF8269E18245B2F0BD"> Ativar transferências de arquivos de sequência do Hadoop para saída</a> </td> 
+   <td colname="col2"> Saiba como permitir que os clientes enviem arquivos SEQ de saída para a própria instância do Hadoop. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="companies/admin-manage-containers.md#task_61DB5CEECC5049DD8D059C642AC3F967"> Gerenciar contêineres</a> </td> 
-   <td colname="col2"> Foi adicionada uma breve instrução sobre como criar contêineres. </td> 
+   <td colname="col1"><a href="companies/admin-manage-containers.md#task_61DB5CEECC5049DD8D059C642AC3F967"> Gerenciar containers</a> </td> 
+   <td colname="col2"> Adição de uma breve instrução sobre como criar containers. </td> 
   </tr> 
   <tr> 
    <td colname="col1"><a href="companies/admin-manage-company-destinations.md#create-edit-company-destinations"> Criar ou editar destinos da empresa</a> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_527E0E75C03846B0AB39EEE544904BE2"> 
-      <li id="li_FC276B34158D44E3A5450C6C8BAF3184">Adicionadas instruções sobre como equilibrar o uso de sincronizações completas e incrementais. </li> 
-      <li id="li_3975DA78DE9E441D8F8CB80F752DD7B7">O provisionamento do <span class="keyword"> Adobe Media Otimizer</span> como destino do <span class="keyword"> Audience Manager</span> é feito dentro do <span class="keyword"> Adobe Media Otimizer</span>. </li> 
+      <li id="li_FC276B34158D44E3A5450C6C8BAF3184">Adição de instruções sobre como equilibrar o uso de sincronizações completas e incrementais. </li> 
+      <li id="li_3975DA78DE9E441D8F8CB80F752DD7B7">A viabilização do <span class="keyword"> Adobe Media Otimizer</span> como destino do <span class="keyword"> Audience Manager</span> é feito no próprio <span class="keyword"> Adobe Media Otimizer</span>. </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
@@ -92,20 +95,20 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="companies/admin-amo-sync.md#concept_2B5537233DAA4860B3503B344F937D83"> Sincronização de ID com o Media Otimizer</a> </p> </td> 
-   <td colname="col2"> <p>Nova documentação que descreve a caixa de seleção de sincronização AMO em cada contêiner da empresa. </p> </td> 
+   <td colname="col2"> <p>Nova documentação que descreve a caixa de seleção de sincronização AMO em cada container de empresa. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="companies/admin-device-graph-options.md#concept_563615F1018340C683E0EE075F8F639D"> Opções de gráfico de dispositivo para empresas</a> </p> </td> 
-   <td colname="col2"> <p>Nova documentação que descreve como configurar as opções de gráfico de dispositivo. </p> </td> 
+   <td colname="col2"> <p>Nova documentação que descreve como configurar opções de gráfico de dispositivo. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><a href="admin-oauth2/aam-admin-api-requirements.md#concept_A7FAC9443CF34974A873E6B787616421"> Requisitos e recomendações da API</a> </p> </td> 
-   <td colname="col2"> <p>Nova documentação que descreve alguns requisitos e recomendações para ter conhecimento e passar para os clientes. Isso é duplicado nos documentos públicos com o mesmo título e alterações para um público-alvo de leitura diferente. Consulte <a href="https://marketing.adobe.com/resources/help/en_US/aam/aam-api-requirements.html" format="https" scope="external"> Requisitos de API e Recomendações</a> nos documentos públicos. </p> </td> 
+   <td colname="col1"> <p><a href="admin-oauth2/aam-admin-api-requirements.md#concept_A7FAC9443CF34974A873E6B787616421"> Requisitos da API e recomendações</a> </p> </td> 
+   <td colname="col2"> <p>Nova documentação que descreve alguns requisitos e recomendações a serem observados e comunicados aos clientes. Essa documentação é duplicada com o mesmo título nos documentos públicos, incluindo alterações para se adaptar a um público diferente de leitores. Consulte <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.translate.html#api-requirements-recommendations" format="https" scope="external"> Requisitos da API e recomendações</a> nos documentos públicos. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Atualizações da documentação do AAM 2016 {#aam-2016-docs-updates}
+## Atualizações de documentação do AAM 2016 {#aam-2016-docs-updates}
 
 <table id="table_E9D9810EA8244B58A4F27D56CFE521FD"> 
  <thead> 
@@ -117,7 +120,7 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
  <tbody> 
   <tr> 
    <td colname="col1"><a href="admin-servers/create-ftp-server.md#task_BF1DD0E5ECA64AEC87EACABFCAEA2C6D"> Criar ou editar um servidor FTP</a> </td> 
-   <td colname="col2">Adicionado o FTP de saída IP <b>52.44.29.204</b>. </td> 
+   <td colname="col2">Adição do IP de FTP de saída <b>52.44.29.204</b>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="companies/admin-manage-company-destinations.md#manage-company-destinations"> Gerenciar destinos da empresa</a> </p> </td> 
@@ -125,7 +128,7 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="admin-servers/create-http-server.md#task_5BF59581868E4144B965D644D36BEACD"> Criar ou editar um servidor HTTP</a> </p> </td> 
-   <td colname="col2"> <p>Assinatura <b></b> HTTP adicionada ao assistente Criar configuração de servidor. </p> </td> 
+   <td colname="col2"> <p>Adição da <b>Assinatura HTTP</b> ao assistente Criar configuração de servidor. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="admin-beta-environment.md#concept_4AA12E66F49A452C8BA4E91AA28060AA"> Ambiente beta</a> </p> </td> 
@@ -145,7 +148,7 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
  </tbody> 
 </table>
 
-## Atualizações da documentação do AAM 2015 {#aam-2015-docs-updates}
+## Atualizações de documentação do AAM 2015 {#aam-2015-docs-updates}
 
 <table id="table_90F524BAAED44A45A1F6BF8BBA9F26F9"> 
  <thead> 
@@ -157,12 +160,12 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Dezembro de 2015 </p> <p><a href="formats/formats.md#concept_66AA2E78A25C4973B3230D5F75B192A2"> Formatos</a> </p> </td> 
-   <td colname="col2"> <p>Seção de macro revisada e exemplos adicionados. </p> </td> 
+   <td colname="col2"> <p>Revisão da seção de macro e adição de exemplos. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Atualizações da documentação do AAM 2014 {#aam-2014-docs-updates}
+## Atualizações de documentação do AAM 2014 {#aam-2014-docs-updates}
 
 <table id="table_FA9962E19248418BA73D5A794A378C9D"> 
  <thead> 
@@ -174,15 +177,15 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
  <tbody> 
   <tr> 
    <td colname="col1"> <p>12 de novembro de 2014 </p> <p> <a href="formats/formats.md#concept_66AA2E78A25C4973B3230D5F75B192A2"> Formatos</a> </p> </td> 
-   <td colname="col2"> <p>Foram adicionadas informações sobre a macro &lt;MCID&gt;. </p> </td> 
+   <td colname="col2"> <p>Adição de informações sobre a macro &lt;MCID&gt;. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>23 de outubro de 2014 </p> <p><a href="formats/admin-create-format.md#task_1A51FC9189DB439FB218D91F3875FD67"> Criar ou editar um formato</a> </p> </td> 
-   <td colname="col2"> <p>Foram adicionadas informações sobre a <span class="wintitle"> opção </span>.info Recibo. </p> </td> 
+   <td colname="col2"> <p>Adição de informações sobre a opção <span class="wintitle"> Recebimento de .info</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>23 de outubro de 2014 </p> <p><a href="formats/formats.md#concept_66AA2E78A25C4973B3230D5F75B192A2"> Formatos</a> </p> </td> 
-   <td colname="col2"> <p>Nova página. Observe que esta página está em andamento e será atualizada nos próximos dias. </p> </td> 
+   <td colname="col2"> <p>Nova página. Observe que esta página está em construção e será atualizada nos próximos dias. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>22 de outubro de 2014 </p> <p><a href="admin-destination-troubleshooting.md#"> Solução de problemas de configuração de destino</a> </p> </td> 
@@ -190,15 +193,15 @@ Para obter informações sobre lançamentos de recursos, melhorias e correções
   </tr> 
   <tr> 
    <td colname="col1"> <p>21 de outubro de 2014 </p> <p><a href="companies/admin-manage-company-destinations.md#manage-company-destinations"> Gerenciar destinos da empresa</a> </p> </td> 
-   <td colname="col2"> <p>Reformulação de todo o tópico. Foram adicionadas informações adicionais e configurações adicionais. </p> </td> 
+   <td colname="col2"> <p>Reformulação de todo o tópico. Adição de mais informações e configurações. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>25 de setembro de 2014 </p> <p><a href="companies/admin-manage-company-profiles.md"> Criar uma empresa</a> </p> </td> 
-   <td colname="col2"> <p>Foram adicionadas informações adicionais às seções <span class="wintitle"> Ciclo de vida</span> e <span class="wintitle"> Tipos</span> de conta. </p> </td> 
+   <td colname="col2"> <p>Adição de mais informações às seções <span class="wintitle"> Ciclo de vida</span> e <span class="wintitle"> Tipos de conta</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>25 de setembro de 2014 </p> <p><a href="companies/admin-manage-company-profiles.md#edit-company-profile"> Editar um perfil de empresa</a> </p> </td> 
-   <td colname="col2"> <p>Foram adicionadas informações adicionais às seções <span class="wintitle"> Ciclo de vida</span> e <span class="wintitle"> Tipos</span> de conta. </p> </td> 
+   <td colname="col2"> <p>Adição de mais informações às seções <span class="wintitle"> Ciclo de vida</span> e <span class="wintitle"> Tipos de conta</span>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
