@@ -1,12 +1,12 @@
 ---
 description: Todas as atualizações (adições, exclusões e correções) no Guia do Administrador do Audience Manager, por data.
 seo-description: Todas as atualizações (adições, exclusões e correções) no Guia do Administrador do Audience Manager, por data.
-seo-title: Atualizações de documentação
-title: Atualizações de documentação
+seo-title: Atualizações de documentação de
+title: Atualizações de documentação de
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e60aa0ac341d74454bfe00a4f56add3a9f9e281b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 100%
 
