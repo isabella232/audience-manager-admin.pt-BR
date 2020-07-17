@@ -1,11 +1,14 @@
 ---
-description: Use a página Servidores na ferramenta Admin do Audience Manager para excluir um servidor existente.
-seo-description: Use a página Servidores na ferramenta Admin do Audience Manager para excluir um servidor existente.
+description: Use a página Servidores na ferramenta Audience Manager Admin para excluir um servidor existente.
+seo-description: Use a página Servidores na ferramenta Audience Manager Admin para excluir um servidor existente.
 seo-title: Excluir um servidor
 title: Excluir um servidor
 uuid: 21d8feeb-a205-43bb-9bc1-9048c918a80a
 translation-type: tm+mt
 source-git-commit: 71bf4cec222428686c1eab0998f66887db06da68
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
 
@@ -25,4 +28,4 @@ Use a [!UICONTROL Servers] página na ferramenta Admin do Audience Manager para 
    ![Resultado da etapa](assets/servers.png)
 
 1. Clique ![](assets/icon_delete.png) na **[!UICONTROL Actions]** coluna do servidor desejado.
-1. Clique em **[!UICONTROL OK]para confirmar a exclusão.**
+1. Clique em **[!UICONTROL OK]** para confirmar a exclusão.
