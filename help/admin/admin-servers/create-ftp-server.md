@@ -15,7 +15,7 @@ ht-degree: 5%
 
 # Criar ou editar um servidor FTP {#create-or-edit-an-ftp-server}
 
-Use a [!UICONTROL Servers] página na ferramenta de administração do Audience Manager para criar um novo servidor FTP ou editar um servidor existente.
+Use a [!UICONTROL Servers] página na ferramenta Admin do Audience Manager para criar um novo servidor FTP ou editar um servidor existente.
 
 >[!NOTE]
 >
@@ -27,18 +27,19 @@ Use a [!UICONTROL Servers] página na ferramenta de administração do Audience 
 
    >[!NOTE]
    >
-   >Como prática recomendada, recomendamos usar [!DNL Amazon S3] como método para obter arquivos e fornecer arquivos aos parceiros. [!DNL Amazon S3] fornece uma interface simples de serviços da Web que pode ser usada para armazenar e recuperar qualquer quantidade de dados, a qualquer momento, de qualquer lugar na Web. Para obter mais informações, consulte [Sobre o Amazon S3](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/amazon-s3.html) no Guia *do usuário do* Audience Manager.
+   >Como prática recomendada, recomendamos usar [!DNL Amazon S3] como método para obter arquivos e fornecer arquivos aos parceiros. [!DNL Amazon S3] fornece uma interface simples de serviços da Web que pode ser usada para armazenar e recuperar qualquer quantidade de dados, a qualquer momento, de qualquer lugar na Web. Para obter mais informações, consulte [Sobre o Amazon S3](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/amazon-s3.html) no Guia *do Usuário do* Audience Manager.
 
 1. Preencha os campos:
 
    * **[!UICONTROL Type]:**Selecione o tipo de criptografia desejado:**[!UICONTROL SFTP]**ou **[!UICONTROL FTPs/TLS]**.
    * **[!UICONTROL Domain]:**Especifique o domínio desejado (host) para este servidor.
    * **[!UICONTROL Port]:**Especifique a porta desejada para este servidor. A porta padrão é exibida para cada tipo de criptografia. Você pode alterar a porta padrão, se necessário.
-   * **[!UICONTROL Remote Path]:**Especifique o caminho remoto desejado para este servidor. Se você deixar esse campo vazio, o Audience Manager colocará os arquivos no diretório padrão.
+   * **[!UICONTROL Remote Path]:**Especifique o caminho remoto desejado para este servidor. Se você deixar esse campo vazio, o Audience Manager coloca os arquivos no diretório padrão.
    * **[!UICONTROL .tmp File Rename on Completion]:**Ative esta opção para renomear o`.tmp`arquivo após a conclusão.
    * **[!UICONTROL Filename Suffix]:**Especifique o texto que deseja anexar para transferir arquivos.
    * **[!UICONTROL Moved to When Finished]:**Especifique o caminho para o local onde deseja que o arquivo de transferência seja movido após a conclusão.
    * **[!UICONTROL Authentication]:**Especifique o método de autenticação do servidor desejado:**[!UICONTROL Username/Password]**ou **[!UICONTROL SSH Key]**.
+
    >[!NOTE]
    >
    >Lembre-se de adicionar nossa saída [!DNL FTP] [!DNL IP] à sua lista de IPs permitidos: **52.44.29.2004**.
