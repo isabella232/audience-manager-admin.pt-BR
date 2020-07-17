@@ -1,19 +1,22 @@
 ---
-description: O ambiente beta é para testar implementações do Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
-seo-description: O ambiente beta é para testar implementações do Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
+description: O ambiente beta é para testar implementações de Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente Audience Manager beta é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
+seo-description: O ambiente beta é para testar implementações de Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente Audience Manager beta é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
 seo-title: Ambiente beta
 solution: Audience Manager
 title: Ambiente beta
 uuid: 6a253f4e-96e7-4395-a783-a8eb213b7daf
 translation-type: tm+mt
 source-git-commit: 7765dbf79c2fb6ca8c4b52fe8090c1fd11f9db27
+workflow-type: tm+mt
+source-wordcount: '414'
+ht-degree: 3%
 
 ---
 
 
 # Ambiente beta {#beta-environment}
 
-O ambiente beta é para testar implementações do Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente beta do Audience Manager é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
+O ambiente beta é para testar implementações de Audience Manager. As alterações feitas na versão beta não afetam os dados de produção. O ambiente Audience Manager beta é uma versão independente e de menor escala do ambiente de produção. Todos os dados que você deseja testar devem ser inseridos e coletados neste ambiente.
 
 ## Visão geral {#overview}
 
@@ -34,25 +37,25 @@ O ambiente beta é para testar implementações do Audience Manager. As alteraç
 
 Para provisionar [!DNL S3] compartimentos para dados de entrada:
 
-1. Use o recurso de Ajuda [**de TechOps para solicitação de**](https://skms.adobe.com/) SKMS.
+1. Use o recurso de Ajuda [**de TechOps para solicitação de **](https://skms.adobe.com/)SKMS.
 1. Vá para **[!UICONTROL Request TechOps Help]** o painel de navegação esquerdo.
 1. Em **[!UICONTROL Request Search]**, digite Audience Manager no campo de pesquisa.
-1. Role para baixo nos resultados da pesquisa e clique em **Audience Manager - Provisionamento** de conta de entrada/saída S3.
+1. Role para baixo nos resultados da pesquisa e clique em **Audience Manager - S3 Inbound / Outbound Account Provisioning (Provisionamento** de conta de entrada/saída).
 1. Preencha os campos na janela de provisionamento e especifique o ambiente **** Sandbox no **[!UICONTROL Environment]** campo.
 
 >[!NOTE]
 >
 >Desencorajamos o uso de [!DNL FTP/SFTP] e incentivamos o uso de [!UICONTROL Amazon S3]. As razões pelas quais incentivamos o uso do [!UICONTROL Amazon S3] são listadas na [Amazon S3:About](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/amazon-s3.html).
 
-## Acesse o DCS no ambiente Beta {#access-dcs-beta-environment}
+## Acesse o DCS no Ambiente Beta {#access-dcs-beta-environment}
 
-Para acessar o [!UICONTROL DCS] no ambiente beta:
+Para acessar o ambiente beta [!UICONTROL DCS] no seguinte:
 
 1. Faça uma [!UICONTROL DCS] chamada usando o [!DNL curl][comando](https://curl.haxx.se/docs/manpage.html). [!DNL Curl] é uma ferramenta para transferir dados de ou para um servidor, usando um dos vários protocolos suportados.
 
    Por exemplo: `curl -v https://dcs-beta.demdex.net/event`
 
-1. Verifique se a solicitação foi atendida pelo beta [!UICONTROL DCS] procurando "[!DNL sandbox]" no cabeçalho de [!UICONTROL DCS] resposta.
+1. Verifique se a solicitação foi atendida pelo beta [!UICONTROL DCS] procurando &quot;[!DNL sandbox]&quot; no cabeçalho de [!UICONTROL DCS] resposta.
 
    Por exemplo:
 
