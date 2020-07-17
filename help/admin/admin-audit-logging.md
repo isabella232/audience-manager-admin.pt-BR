@@ -1,16 +1,19 @@
 ---
 description: 'Use o Registro de auditoria como o primeiro lugar a ser acessado ao depurar problemas do cliente. '
 seo-description: 'Use o Registro de auditoria como o primeiro lugar a ser acessado ao depurar problemas do cliente. '
-seo-title: Registro de auditoria
-title: Registro de auditoria
+seo-title: Logs de auditoria
+title: Logs de auditoria
 uuid: null
 translation-type: tm+mt
 source-git-commit: 53bf192d17e107f5f696712e578921abaa52b9ab
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
 
-# Registro de auditoria {#audit-logging}
+# Logs de auditoria {#audit-logging}
 
 Use [!UICONTROL  Audit Logging] como o primeiro local para solucionar problemas do cliente.
 
