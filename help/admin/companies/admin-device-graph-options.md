@@ -1,26 +1,29 @@
 ---
-description: As Opções de gráfico de dispositivos estão disponíveis para empresas que participam do Adobe Experience Cloud Device Co-op. Se um cliente também tiver uma relação contratual com um provedor de gráfico de dispositivo de terceiros integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivo. Essas opções estão localizadas em Empresas > nome da empresa > Perfil > Opções de gráfico de dispositivo.
-seo-description: As Opções de gráfico de dispositivos estão disponíveis para empresas que participam do Adobe Experience Cloud Device Co-op. Se um cliente também tiver uma relação contratual com um provedor de gráfico de dispositivo de terceiros integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivo. Essas opções estão localizadas em Empresas > nome da empresa > Perfil > Opções de gráfico de dispositivo.
+description: As Opções de gráfico de dispositivos estão disponíveis para empresas que participam do Adobe Experience Cloud Device Co-op. Se um cliente também tiver uma relação contratual com um provedor de gráficos de dispositivos de terceiros que esteja integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivos. Essas opções estão localizadas em Empresa > Nome da empresa > Perfil > Opções do Gráfico de dispositivos.
+seo-description: As Opções de gráfico de dispositivos estão disponíveis para empresas que participam do Adobe Experience Cloud Device Co-op. Se um cliente também tiver uma relação contratual com um provedor de gráficos de dispositivos de terceiros que esteja integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivos. Essas opções estão localizadas em Empresa > Nome da empresa > Perfil > Opções do Gráfico de dispositivos.
 seo-title: Opções de gráfico de dispositivo para empresas
 title: Opções de gráfico de dispositivo para empresas
 uuid: a8ced843-710c-4a8f-a0d7-ea89d010a7a5
 translation-type: tm+mt
 source-git-commit: 2998dc049971b2fac8c45ca6e3118ea607ae3f92
+workflow-type: tm+mt
+source-wordcount: '538'
+ht-degree: 4%
 
 ---
 
 
 # Opções de gráfico de dispositivo para empresas {#device-graph-options-for-companies}
 
-As empresas [!UICONTROL Device Graph Options] estão disponíveis para participar do [!DNL Adobe Experience Cloud Device Co-op]. Se um cliente também tiver uma relação contratual com um provedor de gráfico de dispositivo de terceiros integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivo. Essas opções estão localizadas em [!UICONTROL Companies] &gt; nome da empresa &gt; [!UICONTROL Profile] &gt; [!UICONTROL Device Graph Options].
+Os [!UICONTROL Device Graph Options] estão disponíveis para empresas que participam do [!DNL Adobe Experience Cloud Device Co-op]. Se um cliente também tiver uma relação contratual com um provedor de gráficos de dispositivos de terceiros que esteja integrado ao Audience Manager, esta seção mostrará opções para esse gráfico de dispositivos. Essas opções estão localizadas em [!UICONTROL Companies] > Nome da empresa > [!UICONTROL Profile] > [!UICONTROL Device Graph Options].
 
 ![](assets/adminUIdataSource.png)
 
 Esta ilustração usa nomes genéricos para as opções de gráficos de dispositivos de terceiros. Na produção, esses nomes vêm do provedor de gráficos de dispositivos e podem variar do que é mostrado aqui. Por exemplo, as [!DNL LiveRamp] opções normalmente (mas nem sempre):
 
-* Comece com "[!DNL LiveRamp]"
+* Comece com &quot;[!DNL LiveRamp]&quot;
 * Contém um nome do meio que varia
-* Terminar com "[!UICONTROL - Household]" ou "[!UICONTROL -Person]"
+* Terminar com &quot;[!UICONTROL - Household]&quot; ou &quot;[!UICONTROL -Person]&quot;
 
 ## Definição das opções do gráfico de dispositivos {#device-graph-options-defined}
 
@@ -32,7 +35,7 @@ Os clientes que participam do Device Co-op [da](https://marketing.adobe.com/reso
 
 ![](assets/adminUI1.png)
 
-### Gráfico de dispositivos da empresa {#company-graph}
+### Gráfico de dispositivos de Empresa {#company-graph}
 
 Essa opção é para [!DNL Analytics] os clientes que usam a [!UICONTROL People] métrica em seu conjunto de [!DNL Analytics] relatórios. O [!DNL Corporate Provisioning Team] ativa e desativa essa opção por meio de uma [!DNL API] chamada de back-end. Não é possível marcar nem desmarcar essas caixas no [!DNL Admin UI]. Além disso, as opções **[!UICONTROL Company Device Graph]** e **[!UICONTROL Co-op Device Graph]** são mutuamente exclusivas. Os clientes podem nos pedir para ativar um ou o outro, mas não ambos. Quando marcado:
 
@@ -48,6 +51,6 @@ Essas caixas de seleção são ativadas no [!DNL Admin UI] momento em que um par
 
 >[!MORELIKETHIS]
 >
->* [Definição das opções de regra de mesclagem de perfil](https://marketing.adobe.com/resources/help/en_US/aam/merge-rule-definitions.html)
+>* [Definição das opções da regra de mesclagem de perfis](https://marketing.adobe.com/resources/help/en_US/aam/merge-rule-definitions.html)
 >* [Configurações da fonte de dados e opções de menu](https://marketing.adobe.com/resources/help/en_US/aam/datasource-settings-definitions.html)
 
