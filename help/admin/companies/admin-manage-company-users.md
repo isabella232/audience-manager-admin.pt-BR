@@ -6,6 +6,9 @@ title: Gerenciar usuários da empresa
 uuid: 32c8a4e1-c29c-44d2-8cd4-f4f1be707492
 translation-type: tm+mt
 source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 7%
 
 ---
 
@@ -32,10 +35,10 @@ Crie novos usuários do Audience Manager ou edite e exclua usuários existentes.
    * **[!UICONTROL Email Address]**: (Obrigatório) Especifique o endereço de email do usuário.
    * **[!UICONTROL Phone Number]**: Especifique o número de telefone do usuário.
    * **[!UICONTROL IMS ID]**: O do usuário [!UICONTROL Identity Management System ID]. Essa ID permite que o usuário vincule as soluções da Adobe à Adobe Experience Cloud.
-   * **[!UICONTROL Is Admin]**: Torne este usuário um usuário administrativo do Audience Manager. Um administrador tem todas as funções de usuário do Audience Manager para este parceiro.
+   * **[!UICONTROL Is Admin]**: Torne este usuário um usuário administrativo Audience Manager. Um administrador tem todas as funções de Audience Manager para este parceiro.
    * **[!UICONTROL Status]**: Ao criar um novo usuário, esse campo é exibido inicialmente **[!UICONTROL Pending]** até que o usuário faça logon e redefina a senha temporária. Se você estiver editando um usuário existente, poderá selecionar um dos seguintes status:
-      * **[!UICONTROL Active]**: Especifica se esse usuário é um usuário ativo do Audience Manager.
-      * **[!UICONTROL Deactivated]**: Especifica que esse usuário é um usuário do Audience Manager desativado.
+      * **[!UICONTROL Active]**: Especifica que este usuário é um usuário Audience Manager ativo.
+      * **[!UICONTROL Deactivated]**: Especifica que este usuário é um usuário Audience Manager desativado.
       * **[!UICONTROL Expired]**: Especifica que este usuário é um usuário expirado.
       * **[!UICONTROL Locked Out]**: Especifica que este usuário é um usuário bloqueado.
 
@@ -45,6 +48,6 @@ Crie novos usuários do Audience Manager ou edite e exclua usuários existentes.
 
 Para excluir um usuário:
 
-1. Clique em **[!UICONTROL Companies]**, localize e clique na empresa desejada, em seguida, clique na **[!UICONTROL Users]** guia.
+1. Clique em **[!UICONTROL Companies]**, localize e clique na empresa desejada e, em seguida, clique na **[!UICONTROL Users]** guia.
 1. Clique ![](assets/icon_delete.png) na **[!UICONTROL Actions]** coluna do usuário desejado.
-1. Clique em **[!UICONTROL OK]para confirmar a exclusão.**
+1. Clique em **[!UICONTROL OK]** para confirmar a exclusão.
