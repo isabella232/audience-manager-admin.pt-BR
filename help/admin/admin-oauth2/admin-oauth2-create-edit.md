@@ -5,9 +5,9 @@ seo-title: Clientes OAuth2
 title: Clientes OAuth2
 uuid: 3e654053-fb2f-4d8f-a53c-b5c3b8dbdaaa
 translation-type: tm+mt
-source-git-commit: 2998dc049971b2fac8c45ca6e3118ea607ae3f92
+source-git-commit: 0ee7aa9c13f1b9b8fd64dddff4e52d101055e77c
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '596'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Use a [!UICONTROL OAuth2 Clients] página para visualização de uma lista de [!
 
 >[!NOTE]
 >
->Certifique-se de que seu cliente leia a documentação do [OAuth2](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html#oauth) no Guia do Usuário do Audience Manager do [!DNL.
+>Certifique-se de que seu cliente leia a documentação [OAuth2](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html#oauth) no Guia do usuário do Audience Manager.
 
 [!DNL OAuth2] é uma norma aberta para a autorização de conceder acesso delegado seguro aos [!DNL Audience Manager] recursos em nome de um proprietário de recursos.
 
