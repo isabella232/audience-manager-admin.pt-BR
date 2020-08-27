@@ -5,9 +5,9 @@ seo-title: Criar um perfil de empresa
 title: Criar um perfil de empresa
 uuid: 55de18f8-883d-43fe-b37f-e8805bb92f7a
 translation-type: tm+mt
-source-git-commit: 71bf4cec222428686c1eab0998f66887db06da68
+source-git-commit: 69b733ae869b3dded76f0264e395f0157b445148
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '955'
 ht-degree: 5%
 
 ---
@@ -32,11 +32,11 @@ Use a [!UICONTROL Companies] página na ferramenta Admin Audience Manager para c
 
       Por exemplo, se sua empresa tivesse um nome [!DNL AcmeCorp], o subdomínio seria [!DNL acmecorp].
 
-      Audience Manager usa o subdomínio para o [!UICONTROL Data Collection Server]([!UICONTROL DCS]). No exemplo anterior, se sua empresa estiver cheia [!DNL URL] em [!UICONTROL DCS] estará [!DNL acmecorp.demdex.net].
+      O Audience Manager usa o subdomínio para o [!UICONTROL Data Collection Server] (DCS). No exemplo anterior, se sua empresa estiver cheia [!DNL URL] em [!UICONTROL DCS] estará [!DNL acmecorp.demdex.net].
 
    * **[!UICONTROL Lifecyle]**: Especifique o estágio desejado para a empresa:
       * **[!UICONTROL Active]**: Especifique que a empresa será um cliente Audience Manager ativo. Uma [!UICONTROL Active] conta significa um cliente pagador, não apenas para consultoria, mas para o SKU do Audience Manager.
-      * **[!UICONTROL Demo]**: Especifique que a empresa será apenas para fins de demonstração. Os dados do Relatórios serão automaticamente falsificados.
+      * **[!UICONTROL Demo]**: Especifique que a empresa será apenas para fins de demonstração. Os dados do relatórios serão automaticamente falsificados.
       * **[!UICONTROL Prospect]**: Especifique se a empresa é um cliente Audience Manager potencial, como uma empresa que recebe uma configuração gratuita [!DNL POC] ou de conta para uma demonstração de vendas.
       * **[!UICONTROL Test]**: Especifique que a empresa será apenas para fins de teste interno.
    * **[!UICONTROL Account Types]**: Especifique o conjunto completo de tipos de conta para esta empresa. Nenhum tipo de conta é mutuamente exclusivo com qualquer outro tipo.
@@ -78,12 +78,12 @@ Edite um perfil de empresa, incluindo seu nome, descrição, subdomínio, ciclo 
 
       Por exemplo, se sua empresa tivesse um nome [!DNL AcmeCorp], o subdomínio seria [!DNL acmecorp].
 
-      Audience Manager usa o subdomínio para o [!UICONTROL Data Collection Server] ([!UICONTROL DCS]). No exemplo anterior, se sua empresa estiver cheia [!DNL URL] em [!UICONTROL DCS] estará [!DNL acmecorp.demdex.net].
+      O Audience Manager usa o subdomínio para o [!UICONTROL Data Collection Server] (DCS). No exemplo anterior, se sua empresa estiver cheia [!DNL URL] em [!UICONTROL DCS] estará [!DNL acmecorp.demdex.net].
 
-   * **[!UICONTROL imsOrgld]**: ([!UICONTROL Identity Management System Organization ID]) Essa ID permite que você conecte sua empresa à Adobe Experience Cloud.
+   * **[!UICONTROL imsOrgld]**: ([!UICONTROL Identity Management System Organization ID]) Essa ID permite que você conecte sua empresa ao Adobe Experience Cloud.
    * **[!UICONTROL Lifecyle]**: Especifique o estágio desejado para a empresa:
       * **[!UICONTROL Active]**: Especifique que a empresa será um cliente Audience Manager ativo. Uma conta ativa significa um cliente que paga, não apenas para consultoria, mas para o SKU do Audience Manager.
-      * **[!UICONTROL Demo]**: Especifique que a empresa será apenas para fins de demonstração. Os dados do Relatórios serão automaticamente falsificados.
+      * **[!UICONTROL Demo]**: Especifique que a empresa será apenas para fins de demonstração. Os dados do relatórios serão automaticamente falsificados.
       * **[!UICONTROL Prospect]**: Especifique se a empresa é um cliente Audience Manager potencial, como uma empresa que recebe uma configuração gratuita [!DNL POC] ou de conta para uma demonstração de vendas.
       * **[!UICONTROL Test]**: Especifique que a empresa será apenas para fins de teste interno.
    * **[!UICONTROL Account Types]**: Especifique o conjunto completo de tipos de conta para esta empresa. Nenhum tipo de conta é mutuamente exclusivo com qualquer outro tipo.
@@ -102,7 +102,7 @@ Para obter mais informações, consulte [Audiência Services - Perfil](https://m
    * **[!UICONTROL Features]**: Selecione as opções desejadas:
       * **[!UICONTROL Password Expiration]**: Define todas as senhas de usuário nesta empresa para expirar após 90 dias para aumentar a segurança do Audience Manager.
       * **[!UICONTROL Reporting]**: Habilita o relatórios Audience Manager para esta empresa.
-      * **[!UICONTROL Role Based Access Controls]**: Ative controles de acesso baseados em funções para esta empresa. controles de acesso baseados em funções permitem que você crie grupos de usuários com permissões de acesso diferentes. Os usuários individuais nesses grupos podem acessar somente recursos específicos no Audience Manager.
+      * **[!UICONTROL Role Based Access Controls]**: Ative controles de acesso baseados em funções para esta empresa. Controles de acesso baseados em funções permitem que você crie grupos de usuários com permissões de acesso diferentes. Os usuários individuais nesses grupos podem acessar somente recursos específicos no Audience Manager.
 
 
 1. Clique em **[!UICONTROL Submit Updates]**.
