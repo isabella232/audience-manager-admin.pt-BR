@@ -19,11 +19,11 @@ Crie novos usuários do Audience Manager ou edite e exclua usuários existentes.
 
 <!-- t_manage_company_users.xml -->
 
-1. Clique em **[!UICONTROL Companies]**, localize e clique na empresa desejada para exibir sua [!UICONTROL Profile] página.
+1. Clique em **[!UICONTROL Companies]** e localize e clique na empresa desejada para exibir sua página [!UICONTROL Profile].
 
-   Use a [!UICONTROL Search] caixa ou os controles de paginação na parte inferior da lista para localizar a empresa desejada. É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
-1. Click the **[!UICONTROL Users]** tab.
-1. Para criar um novo usuário, clique em **[!UICONTROL Create a New User]**. Para editar um usuário existente, localize e clique na coluna do usuário desejado. **[!UICONTROL Username]**
+   Use a caixa [!UICONTROL Search] ou os controles de paginação na parte inferior da lista para localizar a empresa desejada. É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
+1. Clique na guia **[!UICONTROL Users]**.
+1. Para criar um novo usuário, clique em **[!UICONTROL Create a New User]**. Para editar um usuário existente, localize e clique no usuário desejado na coluna **[!UICONTROL Username]**.
 
    ![](assets/users.png)
 
@@ -34,9 +34,9 @@ Crie novos usuários do Audience Manager ou edite e exclua usuários existentes.
    * **[!UICONTROL Username]**: (Obrigatório) Especifique o nome de usuário do Audience Manager do usuário. Os nomes de usuário devem ser exclusivos.
    * **[!UICONTROL Email Address]**: (Obrigatório) Especifique o endereço de email do usuário.
    * **[!UICONTROL Phone Number]**: Especifique o número de telefone do usuário.
-   * **[!UICONTROL IMS ID]**: O do usuário [!UICONTROL Identity Management System ID]. Essa ID permite que o usuário vincule as soluções da Adobe à Adobe Experience Cloud.
+   * **[!UICONTROL IMS ID]**: O do usuário  [!UICONTROL Identity Management System ID]. Essa ID permite que o usuário se vincule às soluções de Adobe para a Adobe Experience Cloud.
    * **[!UICONTROL Is Admin]**: Torne este usuário um usuário administrativo Audience Manager. Um administrador tem todas as funções de Audience Manager para este parceiro.
-   * **[!UICONTROL Status]**: Ao criar um novo usuário, esse campo é exibido inicialmente **[!UICONTROL Pending]** até que o usuário faça logon e redefina a senha temporária. Se você estiver editando um usuário existente, poderá selecionar um dos seguintes status:
+   * **[!UICONTROL Status]**: Ao criar um novo usuário, esse campo é exibido inicialmente  **[!UICONTROL Pending]** até que o usuário faça logon e redefina a senha temporária. Se você estiver editando um usuário existente, poderá selecionar um dos seguintes status:
       * **[!UICONTROL Active]**: Especifica que este usuário é um usuário Audience Manager ativo.
       * **[!UICONTROL Deactivated]**: Especifica que este usuário é um usuário Audience Manager desativado.
       * **[!UICONTROL Expired]**: Especifica que este usuário é um usuário expirado.
@@ -48,6 +48,6 @@ Crie novos usuários do Audience Manager ou edite e exclua usuários existentes.
 
 Para excluir um usuário:
 
-1. Clique em **[!UICONTROL Companies]**, localize e clique na empresa desejada e, em seguida, clique na **[!UICONTROL Users]** guia.
-1. Clique ![](assets/icon_delete.png) na **[!UICONTROL Actions]** coluna do usuário desejado.
+1. Clique em **[!UICONTROL Companies]**, localize e clique na empresa desejada e clique na guia **[!UICONTROL Users]**.
+1. Clique em ![](assets/icon_delete.png) na coluna **[!UICONTROL Actions]** do usuário desejado.
 1. Clique em **[!UICONTROL OK]** para confirmar a exclusão.
