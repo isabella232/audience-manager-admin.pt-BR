@@ -13,16 +13,16 @@ ht-degree: 11%
 ---
 
 
-# Assign a Portal User to a Tableau User {#assign-a-portal-user-to-tableau-user}
+# Atribuir um usuário do portal a um usuário do Tableau {#assign-a-portal-user-to-tableau-user}
 
 <!-- t_tabeau.xml -->
 
-Use a [!UICONTROL Reporting] página para tornar um usuário do portal [!DNL Tableau] . Isso permite que os usuários visualizações [!DNL Tableau] relatórios no Audience Manager.
+Use a página [!UICONTROL Reporting] para tornar um usuário do portal [!DNL Tableau] um usuário. Isso permite que os usuários visualizações [!DNL Tableau] relatórios no Audience Manager.
 
 1. Clique em **[!UICONTROL Reporting]** > **[!UICONTROL Assign Portal User to Tableau User]**.
 
    ![](assets/tableau.png)
 
-1. Para atribuir um usuário, na linha de parceiro desejada, digite um nome de [!DNL Tableau] usuário no campo de texto e clique fora do campo de texto.
+1. Para atribuir um usuário, na linha de parceiro desejada, digite um [!DNL Tableau] nome de usuário no campo de texto e clique fora do campo de texto.
 
 Para excluir uma atribuição de usuário, na linha de parceiro desejada, remova o nome de usuário do campo de texto e clique fora do campo de texto.
