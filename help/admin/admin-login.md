@@ -1,6 +1,6 @@
 ---
-description: Faça logon na ferramenta Admin do Adobe Audience Manager com o navegador da Web. A ferramenta Administrador do Audience Manager permite adicionar e configurar empresas, servidores, relatórios, formatos e usuários. Você também pode visualizar ou editar seu perfil pessoal.
-seo-description: Faça logon na ferramenta Admin do Adobe Audience Manager com o navegador da Web. A ferramenta Administrador do Audience Manager permite adicionar e configurar empresas, servidores, relatórios, formatos e usuários. Você também pode visualizar ou editar seu perfil pessoal.
+description: Faça logon na ferramenta Adobe Audience Manager Admin com o navegador da Web. A ferramenta Administrador do Audience Manager permite adicionar e configurar empresas, servidores, relatórios, formatos e usuários. Você também pode visualizar ou editar seu perfil pessoal.
+seo-description: Faça logon na ferramenta Adobe Audience Manager Admin com o navegador da Web. A ferramenta Administrador do Audience Manager permite adicionar e configurar empresas, servidores, relatórios, formatos e usuários. Você também pode visualizar ou editar seu perfil pessoal.
 seo-title: Faça logon no Administrador do Audience Manager
 title: Faça logon no Administrador do Audience Manager
 uuid: 9ba84a90-e596-4aca-9bf7-f7dcf5c1cca5
@@ -15,7 +15,7 @@ ht-degree: 59%
 
 # Faça logon no Administrador do Audience Manager {#log-in-to-audience-manager-admin}
 
-Faça logon na ferramenta Admin do Adobe Audience Manager com o navegador da Web. A ferramenta Administrador do Audience Manager permite adicionar e configurar empresas, servidores, relatórios, formatos e usuários. Você também pode visualizar ou editar seu perfil pessoal.
+Faça logon na ferramenta Adobe Audience Manager Admin com o navegador da Web. A ferramenta Administrador do Audience Manager permite adicionar e configurar empresas, servidores, relatórios, formatos e usuários. Você também pode visualizar ou editar seu perfil pessoal.
 
 <!-- t_login.xml -->
 
