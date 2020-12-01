@@ -1,6 +1,6 @@
 ---
-description: Alguns clientes talvez não queiram fornecer acesso ao Amazon Simple Armazenamento Service (Amazon S3) ou chaves secretas à Adobe para autorizar o carregamento de dados de destino para seus baldes.
-seo-description: Alguns clientes talvez não queiram fornecer acesso ao Amazon Simple Armazenamento Service (Amazon S3) ou chaves secretas à Adobe para autorizar o carregamento de dados de destino para seus baldes.
+description: Alguns clientes talvez não queiram fornecer seu acesso ao Serviço de Armazenamento Simples da Amazon (Amazon S3) ou chaves secretas ao Adobe para autorizar o carregamento de dados de destino para seus buckets.
+seo-description: Alguns clientes talvez não queiram fornecer seu acesso ao Serviço de Armazenamento Simples da Amazon (Amazon S3) ou chaves secretas ao Adobe para autorizar o carregamento de dados de destino para seus buckets.
 seo-title: Como autorizar o acesso entre contas do bucket Amazon S3 para destinos de lote
 title: Como autorizar o acesso entre contas do bucket Amazon S3 para destinos de lote
 uuid: da2bcbda-a765-437a-bfe9-4355383a4730
@@ -13,17 +13,17 @@ ht-degree: 0%
 ---
 
 
-# How To Authorize Cross-Account Amazon S3 Bucket Access for Batch Destinations{#authorize-cross-account-bucket-batch}
+# Como autorizar o acesso entre contas do bucket Amazon S3 para destinos de lote{#authorize-cross-account-bucket-batch}
 
-Alguns clientes talvez não queiram fornecer seu [!DNL Amazon S3] acesso ou chaves secretas para a Adobe autorizar o carregamento de dados de destino para seus compartimentos.
+Alguns clientes talvez não queiram fornecer seu acesso [!DNL Amazon S3] ou chaves secretas ao Adobe para autorizar o carregamento de dados de destino para seus compartimentos.
 
-Uma alternativa que podemos oferta nossos clientes está [!UICONTROL Cross-Account Bucket Permissions] em [!DNL Amazon S3]. Esse processo é descrito na documentação [do](https://docs.aws.amazon.com/AmazonS3/latest/dev/example-walkthroughs-managing-access-example2.html)AWS. Para ativar essa alternativa no Audience Manager, siga as etapas abaixo:
+Uma alternativa que podemos oferta nossos clientes é [!UICONTROL Cross-Account Bucket Permissions] em [!DNL Amazon S3]. Esse processo é descrito na documentação [AWS](https://docs.aws.amazon.com/AmazonS3/latest/dev/example-walkthroughs-managing-access-example2.html). Para ativar essa alternativa no Audience Manager, siga as etapas abaixo:
 
 1. Vá para **[!UICONTROL Servers]** e selecione **[!UICONTROL Create Server]**.
-1. Selecione **[!UICONTROL S3]** na máscara **[!UICONTROL Protocol/Credentials]** suspensa.
-1. Marque a **[!UICONTROL Use Internal Adobe Key]** opção.
+1. Selecione **[!UICONTROL S3]** na máscara suspensa **[!UICONTROL Protocol/Credentials]**.
+1. Verifique a opção **[!UICONTROL Use Internal Adobe Key]**.
 1. Use a conta do cliente e o nome do bucket em [!DNL Amazon S3].
-1. Certifique-se de que seu cliente lista a [!DNL Amazon S3] conta `975822914085` em branco no [!DNL S3] balde.
+1. Certifique-se de que sua conta [!DNL Amazon S3] branca do cliente lista a `975822914085` em seu bucket [!DNL S3].
 
 >[!NOTE]
 >
