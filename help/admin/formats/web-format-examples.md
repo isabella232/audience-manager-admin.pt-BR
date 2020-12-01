@@ -15,9 +15,9 @@ ht-degree: 15%
 
 # Exemplos de macro de formato HTTP {#http-format-macro-examples}
 
-Exemplos de algumas combinações de [!DNL HTTP] macro comumente usadas.
+Exemplos de algumas combinações de macro usadas com frequência [!DNL HTTP].
 
-Consulte Macros [de formato](../formats/web-formats.md) HTTP para obter uma lista de macros e suas definições.
+Consulte [Macros de formato HTTP](../formats/web-formats.md) para obter uma lista de macros e suas definições.
 
 <table id="table_D5FAC5D056ED49D79FA883197EF8F42E"> 
  <thead> 
@@ -138,7 +138,7 @@ Consulte Macros [de formato](../formats/web-formats.md) HTTP para obter uma list
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>&lt;if(user.segments &amp;&amp; user.removedSegments)&gt;&lt;COMMA&gt;&lt;endif&gt;</code> </p> </td> 
-   <td colname="col2"> <p>Imprime uma vírgula se os campos <code>segments</code> e não <code>removedSegments</code> estiverem vazios. Esse condicional pode ser usado para solicitações POST ao concatenar listas para segmentos e segmentos removidos. </p> </td> 
+   <td colname="col2"> <p>Imprime uma vírgula se os campos <code>segments</code> e <code>removedSegments</code> não estiverem vazios. Esse condicional pode ser usado para solicitações de POST ao concatenar listas para segmentos e segmentos removidos. </p> </td> 
   </tr> 
  </tbody> 
 </table>
