@@ -23,11 +23,11 @@ Visualização ou edição de provedores de dados para container.
 >
 >Por padrão, as empresas são criadas com um container. Você pode criar mais container para uma empresa na interface do usuário, em **[!UICONTROL Tools > Tags]**.
 
-1. Clique em **[!UICONTROL Companies]**, localize e clique na empresa desejada para exibir sua [!UICONTROL Profile] página.
+1. Clique em **[!UICONTROL Companies]** e localize e clique na empresa desejada para exibir sua página [!UICONTROL Profile].
 
-   Use a [!UICONTROL Search] caixa ou os controles de paginação na parte inferior da lista para localizar a empresa desejada. É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
+   Use a caixa [!UICONTROL Search] ou os controles de paginação na parte inferior da lista para localizar a empresa desejada. É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
 
-1. Click the **[!UICONTROL Containers]** tab.
+1. Clique na guia **[!UICONTROL Containers]**.
 
    ![](assets/containers.png)
 
@@ -35,11 +35,11 @@ Visualização ou edição de provedores de dados para container.
 
    ![Resultado da etapa](assets/containers_edit.png)
 
-1. Mova as fontes de dados das **[!UICONTROL Available Data Sources]** listas e das **[!UICONTROL Selected Data Sources for This Container]** selecionando as fontes de dados desejadas e, em seguida, clicando nas setas para a direita ou para a esquerda, conforme necessário.
+1. Mova as fontes de dados das listas **[!UICONTROL Available Data Sources]** e **[!UICONTROL Selected Data Sources for This Container]** selecionando as fontes de dados desejadas e, em seguida, clicando nas setas para a direita ou esquerda, conforme necessário.
 
-   Também é possível executar essa tarefa a partir do [Terceiros Data](../companies/admin-third-party-providers.md#task_E942DD674D794BA6B8EFD52FD866E689)Provider Spage.
+   Você também pode executar essa tarefa na página [Provedores de dados de terceiros](../companies/admin-third-party-providers.md#task_E942DD674D794BA6B8EFD52FD866E689).
 
-1. Clique **[!UICONTROL Save]** se tiver feito alterações.
+1. Clique em **[!UICONTROL Save]** se tiver feito alterações.
 
 >[!MORELIKETHIS]
 >
