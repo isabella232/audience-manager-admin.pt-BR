@@ -15,13 +15,13 @@ ht-degree: 9%
 
 # Logs de auditoria {#audit-logging}
 
-Use [!UICONTROL  Audit Logging] como o primeiro local para solucionar problemas do cliente.
+Use [!UICONTROL  Audit Logging] como o primeiro lugar a ser utilizado ao depurar problemas de clientes.
 
 >[!NOTE]
 >
->A [!UICONTROL Audit Logging] funcionalidade e a documentação estão atualmente em desenvolvimento e sujeitas a alterações. Registre todos os problemas que encontrar [!DNL JIRA] ([!DNL UI] equipe).
+>A funcionalidade e a documentação [!UICONTROL Audit Logging] estão atualmente em desenvolvimento e sujeitas a alterações. Registre todos os problemas que encontrar na equipe [!DNL JIRA] ([!DNL UI]).
 
-![visualização de registro de auditoria](assets/audit-logging-img.png)
+![Visualização de registro de auditoria](assets/audit-logging-img.png)
 
 <!-- 
 
