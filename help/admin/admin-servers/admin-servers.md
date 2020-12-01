@@ -15,10 +15,10 @@ ht-degree: 4%
 
 # Visão geral dos servidores {#servers-overview}
 
-Use a [!UICONTROL Servers] página para visualização de uma lista de servidores na sua configuração de Audience Manager. É possível editar ou excluir servidores existentes ou criar novos servidores, desde que você tenha as funções de usuário apropriadas atribuídas.
+Use a página [!UICONTROL Servers] para visualização de uma lista de servidores em sua configuração de Audience Manager. É possível editar ou excluir servidores existentes ou criar novos servidores, desde que você tenha as funções de usuário apropriadas atribuídas.
 
 <!-- c_servers.xml -->
 
 ![](assets/servers.png)
 
-É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada. Use a [!UICONTROL Search] caixa ou os controles de paginação na parte inferior da lista para localizar o servidor desejado.
+É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada. Use a caixa [!UICONTROL Search] ou os controles de paginação na parte inferior da lista para localizar o servidor desejado.
