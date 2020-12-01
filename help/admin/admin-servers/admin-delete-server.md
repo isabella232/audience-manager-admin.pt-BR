@@ -15,17 +15,17 @@ ht-degree: 16%
 
 # Excluir um servidor {#delete-a-server}
 
-Use a [!UICONTROL Servers] página na ferramenta Admin do Audience Manager para excluir um servidor existente.
+Use a página [!UICONTROL Servers] na ferramenta Admin do Audience Manager para excluir um servidor existente.
 
 <!-- t_delete_server.xml -->
 
 >[!NOTE]
 >
->Você deve ter a [!UICONTROL DEXADMIN] função para excluir servidores existentes.
+>Você deve ter a função [!UICONTROL DEXADMIN] para excluir os servidores existentes.
 
 1. Para excluir um servidor existente, clique em **[!UICONTROL Servers]**.
 
    ![Resultado da etapa](assets/servers.png)
 
-1. Clique ![](assets/icon_delete.png) na **[!UICONTROL Actions]** coluna do servidor desejado.
+1. Clique em ![](assets/icon_delete.png) na coluna **[!UICONTROL Actions]** do servidor desejado.
 1. Clique em **[!UICONTROL OK]** para confirmar a exclusão.
