@@ -1,6 +1,6 @@
 ---
-description: Você pode ativar transferências em lote binárias de arquivos de sequência Hadoop (SEQ) para clientes do Audience Manager.
-seo-description: Você pode ativar transferências em lote binárias de arquivos de sequência Hadoop (SEQ) para clientes do Audience Manager.
+description: Você pode ativar transferências em lote de saída binárias de Arquivos de Sequência Hadoop (SEQ) para clientes de Audience Manager.
+seo-description: Você pode ativar transferências em lote de saída binárias de Arquivos de Sequência Hadoop (SEQ) para clientes de Audience Manager.
 seo-title: Ativar transferências de arquivos de sequência do Hadoop para saída
 title: Ativar transferências de arquivos de sequência do Hadoop para saída
 uuid: 301985b1-5ff6-4112-a353-2e5a97e7eec0
@@ -15,14 +15,14 @@ ht-degree: 18%
 
 # Ativar transferências de arquivos de sequência do Hadoop para saída {#enable-hadoop-sequence-file-transfers-for-outbound}
 
-Você pode ativar transferências em lote binárias [!DNL Hadoop Sequence Files] ([!DNL SEQ]) de saída para clientes do Audience Manager.
+Você pode ativar transferências em lote binárias [!DNL Hadoop Sequence Files] ([!DNL SEQ]) para clientes do Audience Manager.
 
 <!-- REMOVED FROM PUBLIC DOCS: The advantages of using [!DNL Hadoop SEQ] files are listed in the [public documentation](https://marketing.adobe.com/resources/help/en_US/aam/outbound-seq-files.html). -->
 
-Para ativar as transferências [!DNL SEQ] de arquivos de saída:
+Para habilitar [!DNL SEQ] transferências de arquivos de saída:
 
-1. Selecione a empresa e o destino para o qual você deseja habilitar as transferências de arquivos de saída. [!DNL SEQ]
-1. Na **[!UICONTROL Edit Destinations]** interface, role até **[!UICONTROL Batch Data]**.
+1. Selecione a empresa e o destino para o qual você deseja habilitar [!DNL SEQ] transferências de arquivos de saída.
+1. Na interface **[!UICONTROL Edit Destinations]**, role para baixo até **[!UICONTROL Batch Data]**.
 1. Selecionar protocolo: **[!UICONTROL FTP]** ou **[!UICONTROL S3]**.
 1. Selecionar Formato: **[!UICONTROL AAM-Outbound-SEQ (415)]**.
-1. Confirme clicando **[!UICONTROL Save]** na parte inferior da página. O cliente agora pode enviar arquivos de sequência Hadoop para o destino.
+1. Confirme clicando em **[!UICONTROL Save]** na parte inferior da página. O cliente agora pode enviar arquivos de sequência da Hadoop para o destino.
