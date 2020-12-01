@@ -19,9 +19,9 @@ Visualização ou edição de container e mapeamentos para provedores de dados p
 
 <!-- t_first_party_providers.xml -->
 
-1. Clique em **[!UICONTROL Companies]**, localize e clique na empresa desejada para exibir sua [!UICONTROL Profile] página. Use a [!UICONTROL Search] caixa ou os controles de paginação na parte inferior da lista para localizar a empresa desejada. É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
+1. Clique em **[!UICONTROL Companies]** e localize e clique na empresa desejada para exibir sua página [!UICONTROL Profile]. Use a caixa [!UICONTROL Search] ou os controles de paginação na parte inferior da lista para localizar a empresa desejada. É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
 
-1. Click the **[!UICONTROL First Party Data Providers]** tab.
+1. Clique na guia **[!UICONTROL First Party Data Providers]**.
 
    ![](assets/first_party_providers.png)
 
@@ -29,5 +29,5 @@ Visualização ou edição de container e mapeamentos para provedores de dados p
 
    ![Resultado da etapa](assets/first_party_providers_edit.png)
 
-1. Mova container das **[!UICONTROL Available Containers]** listas e **[!UICONTROL Selected Containers for This Data Provider]** selecionando os container desejados e, em seguida, clicando nas setas para a direita ou para a esquerda, conforme necessário.
-1. Clique **[!UICONTROL Save]** se tiver feito alterações.
+1. Mova container das listas **[!UICONTROL Available Containers]** e **[!UICONTROL Selected Containers for This Data Provider]** selecionando os container desejados e, em seguida, clicando nas setas para a direita ou esquerda, conforme necessário.
+1. Clique em **[!UICONTROL Save]** se tiver feito alterações.
