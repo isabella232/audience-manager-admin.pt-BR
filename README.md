@@ -59,3 +59,4 @@ No repositório público, as etiquetas automatizadas são atribuídas para solic
 * **pronto para unir**: Pronto para revisão por nossa equipe de análise de solicitação de baixa automática.
 
 
+
