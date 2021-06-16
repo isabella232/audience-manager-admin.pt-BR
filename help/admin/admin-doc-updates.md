@@ -4,29 +4,26 @@ seo-description: Todas as atualizações (adições, exclusões e correções) n
 seo-title: Atualizações de documentação de
 title: Atualizações de documentação de
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
-translation-type: tm+mt
-source-git-commit: 87f89a8a229b221cdab217b8a6b96ccd958078ca
+exl-id: 8221b4df-99c2-47d3-a2ea-186a701a2b20
+source-git-commit: 7767c20bf97ee5c602b60dc6c11a5cd2bf21835d
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 99%
 
 ---
 
-
 # Atualizações de documentação {#documentation-updates}
 
 Todas as atualizações (adições, exclusões e correções) no Guia do Administrador do Audience Manager, por data.
 
-Para obter informações sobre lançamentos de recursos, melhorias e correções de erros, consulte as [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/). Consulte as [notas de versão anteriores](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/c_legacy_releases.html) para ver anúncios mais antigos da Experience Cloud. Para obter [!DNL Audience Manager] alterações na documentação, consulte [Atualizações da Documentação](https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/documentation-updates/docs-2019.html).
+Para obter informações sobre lançamentos de recursos, melhorias e correções de erros, consulte as [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/). Consulte as [notas de versão anteriores](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/c_legacy_releases.html) para ver anúncios mais antigos da Experience Cloud. Para [!DNL Audience Manager] alterações na documentação, consulte [Atualizações da documentação](https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/documentation-updates/docs-2019.html).
 
 ## Atualizações de documentação do AAM 2019 {#aam-2019-docs-updates}
 
-
 | Tópico | Descrição |
----------|----------|
+|--- |--- |
 | Macros de formato HTTP | Adicionamos uma nova macro, `REGION_ID_LIST`, e três novos campos, `sda`, `sda` e `sda` à macro `USER_LIST`. |
 | Macros de formato HTTP | Adicionamos duas novas macros: `ECID` e `MCID`. |
-
 
 ## Atualizações de documentação do AAM 2018 {#aam-2018-docs-updates}
 
