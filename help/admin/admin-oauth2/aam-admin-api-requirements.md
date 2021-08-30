@@ -5,9 +5,9 @@ seo-title: API Requirements and Recommendations
 title: Requisitos da API e recomendações
 uuid: eba9cf92-f0c8-4394-8532-0de9a2e7b103
 exl-id: 24f90732-31a6-436d-862b-e6871d279c7a
-source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
+source-git-commit: c7c5da62b32f6a56152e1c09a965facfc601cade
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '342'
 ht-degree: 2%
 
 ---
@@ -36,4 +36,4 @@ Recomendamos criar uma conta de usuário técnica e separada para trabalhar com 
 * Identifique qual serviço está chamando o [!DNL API] (por exemplo, chamadas de um aplicativo cliente que usam nossos [!DNL API]s ou de fazer alterações em massa).
 * Forneça acesso ininterrupto aos [!DNL API]s. Uma conta vinculada a um funcionário específico pode ser excluída quando ele deixa a empresa. Isso impedirá que seus clientes trabalhem com o código [!DNL API] disponível. Uma conta genérica não vinculada a um funcionário específico ajuda a evitar esse problema.
 
-Como exemplo ou caso de uso para esse tipo de conta, considere que seus clientes desejam alterar muitos segmentos ao mesmo tempo com as [Ferramentas de gerenciamento em massa](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bult-management-tools/bulk-management-intro.html). Para fazer isso, eles precisam de acesso [!DNL API]. Em vez de adicionar permissões a um usuário específico, crie uma conta de usuário [!DNL API] não específica que tenha as credenciais, a chave e o segredo apropriados para fazer chamadas [!DNL API]. Isso também é útil se o cliente desenvolver seus próprios aplicativos que usam o [!DNL Audience Manager] [!DNL API]s.
+Como exemplo ou caso de uso para esse tipo de conta, considere que seus clientes desejam alterar muitos segmentos ao mesmo tempo com as [Ferramentas de gerenciamento em massa](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en). Para fazer isso, eles precisam de acesso [!DNL API]. Em vez de adicionar permissões a um usuário específico, crie uma conta de usuário [!DNL API] não específica que tenha as credenciais, a chave e o segredo apropriados para fazer chamadas [!DNL API]. Isso também é útil se o cliente desenvolver seus próprios aplicativos que usam o [!DNL Audience Manager] [!DNL API]s.

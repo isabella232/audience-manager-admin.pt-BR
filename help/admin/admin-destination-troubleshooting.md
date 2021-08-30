@@ -5,7 +5,7 @@ seo-title: Destination Setup Troubleshooting
 title: Solução de problemas de configuração de destino
 uuid: 04080fb9-6c7b-4de7-960e-54482be2de83
 exl-id: 53c72b1a-f1a1-4266-a595-e4821c2640b2
-source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
+source-git-commit: c7c5da62b32f6a56152e1c09a965facfc601cade
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 4%
@@ -74,7 +74,7 @@ O processo delimitador é executado duas vezes ao dia e vários processos (emula
 
 ### Tamanhos de divisão de arquivo muito grandes
 
-Ao enviar arquivos para destinos, você pode dividir arquivos de saída maiores em blocos de arquivo. Certifique-se de que os fragmentos de arquivo individuais não excedam 10 GB. Consulte também, [Nome do arquivo de dados de saída: Sintaxe e exemplos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implemenation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/outbound-file-name-contents.html?lang=en).
+Ao enviar arquivos para destinos, você pode dividir arquivos de saída maiores em blocos de arquivo. Certifique-se de que os fragmentos de arquivo individuais não excedam 10 GB. Consulte também, [Nome do arquivo de dados de saída: Sintaxe e exemplos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/outbound-file-name-contents.html?lang=en).
 
 
 ## Como configurar seus destinos para exportar IDs de Experience Cloud, IDs do cliente ou IDs de Audience Manager em arquivos de dados de saída {#set-up-destinations-export}
