@@ -3,13 +3,11 @@ product: audience manager
 audience: admin
 user-guide-title: Guia do Administrador do Audience Manager
 breadcrumb-title: Guia do administrador
-breadcrumb-url: /docs/audience-manager-admin/admin-guide/admin-home.html
 user-guide-description: A ferramenta Administrador do Audience Manager permite adicionar e configurar empresas, servidores, relatórios, formatos e usuários. Você também pode visualizar ou editar seu perfil pessoal.
-translation-type: tm+mt
-source-git-commit: fb3eb6ee29332a84f2f389d4c6a2b6e2b7d0fced
+source-git-commit: 5074b73a4ffa9be305cfd753cb4a1efdfeeb9be3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,8 +36,8 @@ ht-degree: 100%
    + [Criar ou editar um servidor S3](admin-servers/create-s3-server.md)
    + [Autorizar acesso ao bucket do Amazon S3 entre contas](admin-servers/admin-authorize-s3-cross-bucket.md)
    + [Excluir um servidor](admin-servers/admin-delete-server.md)
-+ Relatórios {#reporting}
-   + [Relatórios](admin-reporting/admin-reporting-overview.md)
++ Relatório {#reporting}
+   + [Relatório](admin-reporting/admin-reporting-overview.md)
    + [Atribuir um portal ao usuário do Tableau](admin-reporting/admin-assign-tableau-user.md)
 + Formatos {#formats}
    + [Visão geral dos formatos](formats/formats.md)
@@ -56,4 +54,4 @@ ht-degree: 100%
 + [Meu perfil](admin-my-profile.md)
 + [Solução de problemas de configuração de destino](admin-destination-troubleshooting.md)
 + [Ambiente beta](admin-beta-environment.md)
-+ [Atualizações de documentação](admin-doc-updates.md)
++ [Atualizações de documentação de](admin-doc-updates.md)
