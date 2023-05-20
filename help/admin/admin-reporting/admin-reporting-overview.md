@@ -1,17 +1,16 @@
 ---
-description: Gerencie relatórios de Audience Manager criando novos relatórios ou editando ou excluindo relatórios existentes. Você também pode atribuir um usuário do portal como um usuário do Tableau.
-seo-description: Gerencie relatórios de Audience Manager criando novos relatórios ou editando ou excluindo relatórios existentes. Você também pode atribuir um usuário do portal como um usuário do Tableau.
-seo-title: Relatório
+description: Gerencie relatórios de Audience Manager criando novos relatórios ou editando ou excluindo relatórios existentes. Você também pode atribuir um usuário do portal como usuário do Tableau.
+seo-description: Manage Audience Manager reports by creating new reports or by editing or deleting existing reports. You can also assign a portal user as a Tableau user.
+seo-title: Reporting
 title: Relatório
 uuid: d857044b-926d-4862-b8bc-799cb3ecca56
-translation-type: tm+mt
-source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
+exl-id: 3a8ac019-a91b-493c-a59f-700a2624c9ec
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '87'
 ht-degree: 2%
 
 ---
-
 
 # Relatório {#reporting}
 
@@ -21,6 +20,6 @@ Gerencie relatórios de Audience Manager criando novos relatórios ou editando o
 
 ![](assets/reporting.png)
 
-É possível classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
+Você pode classificar cada coluna em ordem crescente ou decrescente clicando no cabeçalho da coluna desejada.
 
-Use a caixa [!UICONTROL Search] ou os controles de paginação na parte inferior da lista para localizar o relatório desejado.
+Use o [!UICONTROL Search] ou nos controles de paginação na parte inferior da lista para localizar o relatório desejado.

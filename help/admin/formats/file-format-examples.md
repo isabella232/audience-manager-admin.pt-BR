@@ -1,35 +1,34 @@
 ---
-description: Exemplos de como as macros são usadas para criar modelos de arquivos FTP externos.
-seo-description: Exemplos de como as macros são usadas para criar modelos de arquivos FTP externos.
-seo-title: Exemplos de macro de formato de arquivo
+description: Exemplos de como as macros são usadas para criar modelos de arquivo FTP de saída.
+seo-description: Examples of how macros are used to create outbound, FTP file templates.
+seo-title: File Format Macro Examples
 title: Exemplos de macro de formato de arquivo
 uuid: f00d431d-7e43-457a-b633-c79cbc4c8f10
-translation-type: tm+mt
-source-git-commit: 4c6d1752ff10d2d3d12cab88e823f25f5ef4fcd0
+exl-id: 132a8e40-8001-4a49-9304-82e852ee28fd
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 13%
+source-wordcount: '199'
+ht-degree: 12%
 
 ---
 
-
 # Exemplos de macro de formato de arquivo {#file-format-macro-examples}
 
-Exemplos de como as macros são usadas para criar modelos de arquivos [!DNL FTP] de saída.
+Exemplos de como as macros são usadas para criar arquivos de saída, [!DNL FTP] modelos de arquivo.
 
 >[!NOTE]
 >
->Nas tabelas, o tipo **negrito** identifica cada macro com a respectiva saída relacionada. Para os exemplos de formato, os &lt; > símbolos foram adicionados para ajudar a separar visualmente cada macro.
+>Nas tabelas, **negrito** O tipo identifica cada macro com sua saída relacionada. Para os exemplos de formato, os &lt; > símbolos foram adicionados para ajudar a separar visualmente cada macro.
 
-## Macros Comuns {#common-macros}
+## Macros comuns {#common-macros}
 
-Essas macros podem ser usadas em qualquer campo de formato. Consulte [Macros de Formato de Arquivo](../formats/file-formats.md) para obter uma lista completa e definições.
+Essas macros podem ser usadas em qualquer campo de formato. Consulte a [Macros de formato de arquivo](../formats/file-formats.md) para obter uma lista e definições completas.
 
 <table id="table_B5073597219B470298EE614902DACAE8"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Macro </th> 
-   <th colname="col2" class="entry"> Exemplos de formato e saída </th> 
+   <th colname="col2" class="entry"> Exemplos de Formato e Saída </th> 
   </tr> 
  </thead>
  <tbody> 
@@ -69,34 +68,34 @@ Essas macros podem ser usadas em qualquer campo de formato. Consulte [Macros de 
  </tbody> 
 </table>
 
-## Macros de campo de cabeçalho {#header-field-macros}
+## Macros do campo de cabeçalho {#header-field-macros}
 
-Macros usadas somente em campos de cabeçalho. Consulte [Macros de Formato de Arquivo](../formats/file-formats.md) para obter uma lista completa e definições.
+Macros usadas somente em campos de cabeçalho. Consulte a [Macros de formato de arquivo](../formats/file-formats.md) para obter uma lista e definições completas.
 
 <table id="table_ABC31B3D660D47969E111EBC734D5BBC"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Macro </th> 
-   <th colname="col2" class="entry"> Exemplos de formato e saída </th> 
+   <th colname="col2" class="entry"> Exemplos de Formato e Saída </th> 
   </tr> 
  </thead>
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>TAB </code> </p> </td> 
-   <td colname="col2"> <p>Formato: <code>&lt;ORDER_ID&gt; &lt;TAB&gt;&lt;SYNC_TYPE&gt; </code> </p> <p>Saída: <code>888 full.sync </code> </p> <p>Na saída, o caractere de guia não imprimível separa cada elemento. </p> </td>
+   <td colname="col2"> <p>Formato: <code>&lt;ORDER_ID&gt; &lt;TAB&gt;&lt;SYNC_TYPE&gt; </code> </p> <p>Saída: <code>888 full.sync </code> </p> <p>Na saída, o caractere de tabulação não imprimível separa cada elemento. </p> </td>
   </tr>
  </tbody>
 </table>
 
 ## Macros de linha de dados {#data-row-macros}
 
-Macros usadas somente em campos de cabeçalho. Consulte [Macros de Formato de Arquivo](../formats/file-formats.md) para obter uma lista completa e definições.
+Macros usadas somente em campos de cabeçalho. Consulte a [Macros de formato de arquivo](../formats/file-formats.md) para obter uma lista e definições completas.
 
 <table id="table_408C6DD2B9D54550B003EAC93562E64F"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Macro </th> 
-   <th colname="col2" class="entry"> Exemplos de formato e saída </th> 
+   <th colname="col2" class="entry"> Exemplos de Formato e Saída </th> 
   </tr> 
  </thead>
  <tbody> 
@@ -129,7 +128,7 @@ Macros usadas somente em campos de cabeçalho. Consulte [Macros de Formato de Ar
   </tr>
   <tr> 
    <td colname="col1"> <p> <code>TAB </code> </p> </td> 
-   <td colname="col2"> <p>Formato: <code>&lt;DP_UUID&gt;&lt;TAB&gt;&lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>Saída: <code>123456 UUID1 UUID2 UUID3 </code> </p> <p>Na saída, o caractere de guia não imprimível separa cada elemento. </p> </td> 
+   <td colname="col2"> <p>Formato: <code>&lt;DP_UUID&gt;&lt;TAB&gt;&lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>Saída: <code>123456 UUID1 UUID2 UUID3 </code> </p> <p>Na saída, o caractere de tabulação não imprimível separa cada elemento. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>TRAIT_LIST </code> </p> </td> 

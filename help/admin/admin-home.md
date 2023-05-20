@@ -18,7 +18,7 @@ A ferramenta Administrador do Audience Manager permite adicionar e configurar em
 
 >[!IMPORTANT]
 >
-> O público-alvo desse repositório de documentação é de funcionários internos do Adobe. Se você for um cliente do Audience Manager, navegue até o [Visão geral do guia Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+> O público-alvo deste repositório de documentação são funcionários internos na Adobe. Se você for um cliente do Audience Manager, navegue até o [Visão geral do guia do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
 
 <table id="table_882B0982144442F79328A4FA45BD5C7E" frame="none"> 
  <tbody> 
@@ -42,7 +42,7 @@ A ferramenta Administrador do Audience Manager permite adicionar e configurar em
      <li id="li_B89CEA08B4954C6ABA2BBDA803A88427"> <a href="https://helpx.adobe.com/support/social.html" format="http" scope="external"> Comunidade do Adobe Social</a> </li> 
      <li id="li_4F16686C311743C484013D84971EEBD3"> <a href="https://helpx.adobe.com/learning.html?promoid=KAUDK" format="https" scope="external"> Treinamento e tutoriais da Adobe</a> </li> 
      <li id="li_32581A0A26CB4F43833D607221154188"><a href="https://www.adobe.io" format="https" scope="external"> Developer Connection</a> </li> 
-     <li id="li_49B2B95B1B4540C9A967F7DDBB4EB457"><a href="https://helpx.adobe.com/support/experience-cloud.html" format="https" scope="external"> Página inicial da documentação do produto</a> </li> 
+     <li id="li_49B2B95B1B4540C9A967F7DDBB4EB457"><a href="https://helpx.adobe.com/pt/support/experience-cloud.html" format="https" scope="external"> Página inicial da documentação do produto</a> </li> 
     </ul> </td> 
   </tr> 
  </tbody> 

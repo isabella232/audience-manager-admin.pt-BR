@@ -1,23 +1,22 @@
 ---
-description: Exemplos de algumas combinações de macro HTTP comumente usadas.
-seo-description: Exemplos de algumas combinações de macro HTTP comumente usadas.
-seo-title: Exemplos de macro de formato HTTP
+description: Exemplos de algumas combinações de macro HTTP usadas com frequência.
+seo-description: Examples of some commonly used HTTP macro combinations.
+seo-title: HTTP Format Macro Examples
 title: Exemplos de macro de formato HTTP
 uuid: a81a2e2a-de7e-4b6a-8771-fcfa0dc74570
-translation-type: tm+mt
-source-git-commit: 4c6d1752ff10d2d3d12cab88e823f25f5ef4fcd0
+exl-id: 1f8ccbf3-241d-4bd9-8c35-cf68b12d2713
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 15%
+source-wordcount: '66'
+ht-degree: 12%
 
 ---
 
-
 # Exemplos de macro de formato HTTP {#http-format-macro-examples}
 
-Exemplos de algumas combinações de macro usadas com frequência [!DNL HTTP].
+Exemplos de alguns [!DNL HTTP] combinações de macro.
 
-Consulte [Macros de formato HTTP](../formats/web-formats.md) para obter uma lista de macros e suas definições.
+Consulte a [Macros de formato HTTP](../formats/web-formats.md) para obter uma lista de macros e suas definições.
 
 <table id="table_D5FAC5D056ED49D79FA883197EF8F42E"> 
  <thead> 
@@ -138,7 +137,7 @@ Consulte [Macros de formato HTTP](../formats/web-formats.md) para obter uma list
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>&lt;if(user.segments &amp;&amp; user.removedSegments)&gt;&lt;COMMA&gt;&lt;endif&gt;</code> </p> </td> 
-   <td colname="col2"> <p>Imprime uma vírgula se os campos <code>segments</code> e <code>removedSegments</code> não estiverem vazios. Esse condicional pode ser usado para solicitações de POST ao concatenar listas para segmentos e segmentos removidos. </p> </td> 
+   <td colname="col2"> <p>Imprime uma vírgula se os campos <code>segments</code> e <code>removedSegments</code> não estão vazias. Essa condicional pode ser usada para solicitações POST ao concatenar listas para segmentos e segmentos removidos. </p> </td> 
   </tr> 
  </tbody> 
 </table>

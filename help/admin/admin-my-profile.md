@@ -1,27 +1,26 @@
 ---
-description: Edite os detalhes do perfil da ferramenta Admin ou altere sua senha.
-seo-description: Edite os detalhes do perfil da ferramenta Admin ou altere sua senha.
-seo-title: Meu perfil
+description: Edite os detalhes do perfil da ferramenta de administração do Audience Manager ou altere a senha.
+seo-description: Edit the details of your Audience Manager Admin tool profile or change your password.
+seo-title: My Profile
 title: Meu perfil
 uuid: ccaa611d-c855-484e-9696-081d9b4e0935
-translation-type: tm+mt
-source-git-commit: 57d7a92265e565b6c411e4cfa5c579e40eb837b3
+exl-id: d213f734-af52-4f43-8733-af67ce6f4e98
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 4%
+source-wordcount: '330'
+ht-degree: 3%
 
 ---
 
-
 # Meu perfil {#my-profile}
 
-Edite os detalhes do perfil da ferramenta Admin ou altere sua senha.
+Edite os detalhes do perfil da ferramenta de administração do Audience Manager ou altere a senha.
 
 <!-- c_my_profile.xml -->
 
-## Editar Perfil {#edit-profile}
+## Editar perfil {#edit-profile}
 
-Visualização e edite seu perfil de ferramenta de Administração de Audience Manager, incluindo o nome e sobrenome, nome de usuário, endereço de email, número de telefone, [!UICONTROL IMS ID], funções de usuário e status.
+Visualize e edite seu perfil da ferramenta do administrador do Audience Manager, incluindo nome e sobrenome, nome de usuário, endereço de email, número de telefone, [!UICONTROL IMS ID], funções de usuário e status.
 
 <!-- t_edit_profile.xml -->
 
@@ -31,31 +30,31 @@ Visualização e edite seu perfil de ferramenta de Administração de Audience M
 
 2. Preencha os campos:
    * **[!UICONTROL First Name]:** (Obrigatório) Especifique seu nome.
-   * **[!UICONTROL Last Name]:** (obrigatório) Especifique seu sobrenome.
+   * **[!UICONTROL Last Name]:** (Obrigatório) Especifique seu sobrenome.
    * **[!UICONTROL Username]:** (Obrigatório) Especifique seu primeiro nome de usuário.
    * **[!UICONTROL Email Address]:** (Obrigatório) Especifique seu endereço de email.
    * **[!UICONTROL Phone Number]:** Especifique seu número de telefone.
-   * **[!UICONTROL IMS ID]:** Especifique sua ID do serviço de mensagens na Internet.
+   * **[!UICONTROL IMS ID]:** Especifique a ID do serviço de mensagens da Internet.
    * **[!UICONTROL User Roles]:** Selecione as funções de usuário desejadas:
-      * **[!UICONTROL DEXADMIN]:** Fornece acesso de administrador para executar tarefas na ferramenta Audience Manager Admin. Se você não selecionar essa opção, poderá escolher funções individuais. Essas funções permitem que os usuários executem tarefas usando [!DNL API] chamadas, mas não na ferramenta Admin.
-      * **[!UICONTROL CREATE_USERS]:** Permite que os usuários criem novos usuários usando uma  [!DNL API] chamada.
-      * **[!UICONTROL DELETE_USERS]:** Permite que os usuários excluam usuários existentes usando uma  [!DNL API] chamada.
-      * **[!UICONTROL EDIT_USERS]:** Permite que os usuários editem usuários existentes usando uma  [!DNL API] chamada.
-      * **[!UICONTROL VIEW_USERS]:** Permite que os usuários visualizações outros usuários na sua configuração de Audience Manager usando uma  [!DNL API] chamada.
-      * **[!UICONTROL CREATE_PARTNERS]:** Permite que os usuários criem parceiros Audience Manager usando uma  [!DNL API] chamada.
-      * **[!UICONTROL DELETE_PARTNERS]:** Permite que os usuários excluam parceiros Audience Manager usando uma  [!DNL API] chamada.
-      * **[!UICONTROL EDIT_PARTNERS]:** Permite que os usuários editem parceiros Audience Manager usando uma  [!DNL API] chamada.
-      * **[!UICONTROL VIEW_PARNTERS]:** Permite que os usuários visualização parceiros usando uma  [!DNL API] chamada.
+      * **[!UICONTROL DEXADMIN]:** Fornece acesso de administrador para executar tarefas na ferramenta Audience Manager Admin. Se você não selecionar essa opção, poderá escolher funções individuais. Essas funções permitem que os usuários executem tarefas usando [!DNL API] chamadas, mas não na Ferramenta de administração.
+      * **[!UICONTROL CREATE_USERS]:** Permite que os usuários criem novos usuários usando um [!DNL API] chame.
+      * **[!UICONTROL DELETE_USERS]:** Permite que os usuários excluam usuários existentes usando um [!DNL API] chame.
+      * **[!UICONTROL EDIT_USERS]:** Permite que os usuários editem usuários existentes usando um [!DNL API] chame.
+      * **[!UICONTROL VIEW_USERS]:** Permite que os usuários visualizem outros usuários em sua configuração de Audience Manager usando um [!DNL API] chame.
+      * **[!UICONTROL CREATE_PARTNERS]:** Permite que os usuários criem parceiros de Audience Manager usando um [!DNL API] chame.
+      * **[!UICONTROL DELETE_PARTNERS]:** Permite que os usuários excluam parceiros de Audience Manager usando um [!DNL API] chame.
+      * **[!UICONTROL EDIT_PARTNERS]:** Permite que os usuários editem parceiros de Audience Manager usando um [!DNL API] chame.
+      * **[!UICONTROL VIEW_PARNTERS]:** Permite que os usuários visualizem parceiros de Audience Manager usando um [!DNL API] chame.
    * **[!UICONTROL Status]:** Selecione o status desejado:
-      * **[!UICONTROL Active]:** Especifica que esse usuário em um usuário do Audience Manager ativo.
-      * **[!UICONTROL Deactivated]:** Especifica que esse usuário é um usuário desativado no Gerenciamento de Audiências.
+      * **[!UICONTROL Active]:** Especifica que este usuário está em um usuário Audience Manager ativo.
+      * **[!UICONTROL Deactivated]:** Especifica que este usuário é um usuário desativado no Gerenciamento de público-alvo.
       * **[!UICONTROL Expired]:** Especifica que a conta deste usuário no Audience Manager expirou.
       * **[!UICONTROL Locked Out]:** Especifica que a conta deste usuário no Audience Manager está bloqueada.
 3. Clique em **[!UICONTROL Submit]**.
 
-## Alterar Senha {#change-password}
+## Alterar senha {#change-password}
 
-Altere a senha da ferramenta Admin do Audience Manager.
+Altere a senha da ferramenta Audience Manager Admin.
 
 <!-- t_change_password.xml -->
 
@@ -64,16 +63,16 @@ Altere a senha da ferramenta Admin do Audience Manager.
 
    ![](assets/change_password.png)
 
-   Sua senha de Audience Manager deve ser:
+   A senha do Audience Manager deve ser:
 
-   * pelo menos oito caracteres de comprimento;
-   * Conter pelo menos um caractere maiúsculo;
-   * Contém pelo menos um caractere em minúsculas;
-   * Conter pelo menos um número;
-   * Conter pelo menos um caráter especial;
+   * Pelo menos oito caracteres;
+   * Ter pelo menos um caractere maiúsculo;
+   * Conter pelo menos um caractere minúsculo;
+   * Ter pelo menos um número;
+   * Ter pelo menos um caráter especial;
    * Começar e terminar com um caractere alfanumérico;
    * Comece e termine com um caractere alfanumérico.
 
 1. Especifique sua senha antiga.
-1. Especifique sua nova senha e confirme a nova senha.
+1. Especifique a nova senha e confirme-a.
 1. Clique em **[!UICONTROL OK]**.

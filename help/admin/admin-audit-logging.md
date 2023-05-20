@@ -1,27 +1,26 @@
 ---
-description: 'Use o Registro de auditoria como o primeiro lugar a ser acessado ao depurar problemas do cliente. '
-seo-description: 'Use o Registro de auditoria como o primeiro lugar a ser acessado ao depurar problemas do cliente. '
-seo-title: Logs de auditoria
+description: Use o Log de auditoria como um primeiro local a ser seguido ao depurar problemas do cliente.
+seo-description: Use Audit Logging as a first place to go when debugging customer issues.
+seo-title: Audit Logging
 title: Logs de auditoria
 uuid: null
-translation-type: tm+mt
-source-git-commit: 53bf192d17e107f5f696712e578921abaa52b9ab
+exl-id: ff68f90f-b521-4560-9bf6-a7a6a588adf9
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 9%
+source-wordcount: '51'
+ht-degree: 7%
 
 ---
 
-
 # Logs de auditoria {#audit-logging}
 
-Use [!UICONTROL  Audit Logging] como o primeiro lugar a ser utilizado ao depurar problemas de clientes.
+Uso [!UICONTROL  Audit Logging] como primeiro passo para depurar problemas do cliente.
 
 >[!NOTE]
 >
->A funcionalidade e a documentação [!UICONTROL Audit Logging] estão atualmente em desenvolvimento e sujeitas a alterações. Registre todos os problemas que encontrar na equipe [!DNL JIRA] ([!DNL UI]).
+>A variável [!UICONTROL Audit Logging] A funcionalidade e a documentação do estão atualmente em desenvolvimento e sujeitas a alterações. Registre todos os problemas encontrados no [!DNL JIRA] ([!DNL UI] equipe).
 
-![Visualização de registro de auditoria](assets/audit-logging-img.png)
+![Exibição de log de auditoria](assets/audit-logging-img.png)
 
 <!-- 
 

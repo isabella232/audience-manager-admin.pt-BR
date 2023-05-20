@@ -1,33 +1,32 @@
 ---
-description: Por padrão, todos os dados de sincronização do empresa com o Adobe Media Optimizer (AMO). Na interface do usuário administrativa, cada container de empresa tem uma fonte de dados que gerencia esse processo. Essa fonte de dados é Adobe AMO (ID 411). Clique em uma linha de container (na guia Container) de uma empresa selecionada para desativar essa sincronização padrão ou para adicionar e remover outras fontes de dados ao processo de sincronização AMO.
-seo-description: Por padrão, todos os dados de sincronização do empresa com o Adobe Media Optimizer (AMO). Na interface do usuário administrativa, cada container de empresa tem uma fonte de dados que gerencia esse processo. Essa fonte de dados é Adobe AMO (ID 411). Clique em uma linha de container (na guia Container) de uma empresa selecionada para desativar essa sincronização padrão ou para adicionar e remover outras fontes de dados ao processo de sincronização AMO.
-seo-title: Sincronização de ID com o Media Otimizer
+description: Por padrão, todas as empresas sincronizam dados com o Adobe Media Optimizer (AMO). Na interface do Administrador, cada contêiner de empresa tem uma fonte de dados que gerencia esse processo. Essa fonte de dados é o Adobe AMO (ID 411). Clique em uma linha de contêiner (na guia Contêineres ) de uma empresa selecionada para desativar esta sincronização padrão ou para adicionar e remover outras fontes de dados ao processo de sincronização AMO.
+seo-description: By default, all companies sync data with Adobe Media Optimizer (AMO). In the Admin UI, each company container has a data source that manages this process. This data source is Adobe AMO (ID 411). Click a container row (under the Containers tab) for a selected company to disable this default sync or to add and remove other data sources to the AMO sync process.
+seo-title: ID Syncing with Media Optimizer
 title: Sincronização de ID com o Media Otimizer
 uuid: b741dfa7-2947-4288-b214-79eccf18d53a
-translation-type: tm+mt
-source-git-commit: 2998dc049971b2fac8c45ca6e3118ea607ae3f92
+exl-id: ebd978ef-3825-4a96-94bd-5cdae269cf7c
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '219'
 ht-degree: 6%
 
 ---
 
-
 # Sincronização de ID com o Media Otimizer {#id-syncing-with-media-optimizer}
 
-Por padrão, todos os dados de sincronização do empresa com [!DNL Adobe Media Optimizer] ([!DNL AMO]). Em [!UICONTROL Admin UI], cada container de empresa tem uma fonte de dados que gerencia esse processo. Essa fonte de dados é [!UICONTROL Adobe AMO] ([!UICONTROL ID] 411). Clique em uma linha de container (na guia [!UICONTROL Containers]) de uma empresa selecionada para desativar essa sincronização padrão ou para adicionar e remover outras fontes de dados ao processo de sincronização [!DNL AMO].
+Por padrão, todas as empresas sincronizam dados com o [!DNL Adobe Media Optimizer] ([!DNL AMO]). No [!UICONTROL Admin UI], cada container da empresa tem uma fonte de dados que gerencia esse processo. Esta fonte de dados é [!UICONTROL Adobe AMO] ([!UICONTROL ID] 411). Clique em uma linha de contêiner (sob a [!UICONTROL Containers] para que uma empresa selecionada desative essa sincronização padrão ou adicione e remova outras fontes de dados à [!DNL AMO] processo de sincronização.
 
 ![](assets/id-sync.png)
 
-## Status de sincronização de ID {#id-sync-status}
+## Status da sincronização de ID {#id-sync-status}
 
 A tabela a seguir descreve o status de sincronização de uma fonte de dados.
 
 | Status | Descrição |
 |------ | -------- |
-| Desligado | Remova todas as fontes de dados de [!UICONTROL Selected Data Sources] desse container para desativar as sincronizações de ID com [!DNL AMO] |
-| Ativado (independentemente da versão do serviço de ID) | Uma fonte de dados sincroniza com [!DNL AMO] independentemente da versão do serviço de ID quando: <ul><li>A fonte de dados é exibida na lista [!UICONTROL Selected Data Sources].</li><li>A caixa de seleção [!DNL AMO] *não está* selecionada.</li></ul> |
-| Ativado (independentemente da versão do serviço de ID) | Uma fonte de dados será sincronizada com [!DNL AMO] com o serviço de ID versão 2.0 (ou superior) quando: <ul><li>A fonte de dados é exibida na lista [!UICONTROL Selected Data Sources].</li><li>A caixa de seleção [!DNL AMO] *está* selecionada.</li></ul> |
+| Desligado | Remover todas as fontes de dados de [!UICONTROL Selected Data Sources] para que esse contêiner desative sincronizações de ID com [!DNL AMO] |
+| Ativado (independentemente da versão do serviço de ID) | Uma fonte de dados é sincronizada com [!DNL AMO] independentemente da versão do serviço de ID quando: <ul><li>A fonte de dados aparece na variável [!UICONTROL Selected Data Sources] lista.</li><li>A variável [!DNL AMO] caixa de seleção *não é* selecionado.</li></ul> |
+| Ativado (independentemente da versão do serviço de ID) | Uma fonte de dados será sincronizada com [!DNL AMO] com o serviço de ID versão 2.0 (ou superior) quando: <ul><li>A fonte de dados aparece na variável [!UICONTROL Selected Data Sources] lista.</li><li>A variável [!DNL AMO] caixa de seleção *é* selecionado.</li></ul> |
 
 >[!MORELIKETHIS]
 >
